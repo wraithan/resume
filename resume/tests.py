@@ -23,5 +23,8 @@ class CompanyTestCase(TestCase):
     def test_has_cd(self):
         self.assertTrue(self.company.cd)
 
+    def test_has_seen_the_it_crowd(self):
+        self.assertTrue('it_crowd' in self.company.engineers.favorite.tv_shows)
+
     def tearDown(self):
         del self.company
