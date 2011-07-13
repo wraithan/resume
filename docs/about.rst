@@ -17,9 +17,9 @@ in learning from mistakes, iterating quickly, and building strength over time. I
 understand that big change is made from consistent small efforts, and strive to
 continuously improve myself every day.
 
-When I work on things, I strive to give them 100% of my effort. Regardless of
-whether I'm folding laundry or writing unit tests, I thoroughly enjoy myself and
-constantly push myself to new levels of understanding and efficiency.
+When I work on things, I give them 100% of my effort. Regardless of whether I'm
+folding laundry or writing unit tests, I thoroughly enjoy myself and constantly
+push myself to new levels of understanding and efficiency.
 
 #######
 Purpose
