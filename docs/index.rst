@@ -10,7 +10,9 @@ to see the **technical** details, you'll need to check out my `resume project
     My resume is currently *under development*. I'll remove this notice once
     it reaches a stable release ;)
 
-Table of Contents:
+#################
+Table of Contents
+#################
 
 .. toctree::
    :maxdepth: 2
