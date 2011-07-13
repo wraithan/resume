@@ -17,5 +17,11 @@ class CompanyTestCase(TestCase):
     def test_loves_testing(self):
         self.assertTrue(self.company.coverage > .50)
 
+    def test_has_ci(self):
+        self.assertTrue(self.company.ci)
+
+    def test_has_cd(self):
+        self.assertTrue(self.company.cd)
+
     def tearDown(self):
         del self.company
