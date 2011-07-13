@@ -1,0 +1,9 @@
+#
+# Company requirements:
+#
+
+interesting_product>=0.1.0
+uses_dvcs==1.0.0
+technical_founders>=1.0
+engineer_culture==1.0
+awesome_programmers==1.0
