@@ -48,5 +48,7 @@ I think the most accurate way to describe myself is a "laid-back programmer":
 * I constantly build and contribute to open source projects.
 * I read every day.
 * I like writing on `my blog <http://rdegges.com/>`_.
+* I've got an uncanny ability for finding relevant gif images during IRC
+  conversations.
 
 I'm friendly, fun, and nerdy.
