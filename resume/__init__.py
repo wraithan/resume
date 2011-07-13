@@ -1,4 +1,7 @@
-"""Randall Degges - pythonista
+"""
+***************************
+Randall Degges - pythonista
+***************************
 
 Are you looking for a good python programmer?
 =============================================
