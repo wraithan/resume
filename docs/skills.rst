@@ -111,4 +111,4 @@ scalable cloud infrastructure using `Rackspace Cloud Servers
 <http://www.rackspace.com/cloud/cloud_hosting_products/servers/>`_.
 
 I'm familiar with their python APIs and CLI tools, and know how to easily
-automate server and scaling tasks.
+automate server provisioning.
