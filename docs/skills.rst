@@ -87,6 +87,9 @@ I've used puppet to:
 * Automate sysadmin work and remove thousands of hours worth of manual labor
   creating, configuring, and managing servers.
 
+* Automatically scale my work's cloud infrastructure to actively add and remove
+  servers based on user demand.
+
 #########
 memcached
 #########
