@@ -90,6 +90,20 @@ I've used puppet to:
 * Automatically scale my work's cloud infrastructure to actively add and remove
   servers based on user demand.
 
+#####
+monit
+#####
+
+`monit <http://blah.com/>`_ is an application monitoring and healing program
+that I've used to build fault-tolerant software stacks at work, and for fun. I'm
+familiar with the basic monit scripting language, and have written numerous
+scripts to monitor applications, ensure they're running properly (via numerous
+statistics such as load, memory usage, response time, etc.), and attempt to both
+auto-correct issues and send notifications when problems arise.
+
+.. todo::
+    Add link to monit site here--I don't have internet atm :(
+
 #########
 memcached
 #########
