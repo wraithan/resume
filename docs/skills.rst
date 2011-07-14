@@ -16,9 +16,9 @@ impatience, and hubris >:)
 Python
 ######
 
-Python is by far my strongest programming language. I've worked extensively with
-it for ~5 years, and am very familiar with the standard library, and open source
-ecosystem.
+Python is by far my strongest programming language. I've worked with it
+extensively for ~5 years, and am very familiar with the standard library, and
+open source ecosystem.
 
 I've used Python to build:
 
