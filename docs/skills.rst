@@ -95,13 +95,12 @@ memcached
 #########
 
 In order to help scale large web applications, I've made extensive use of
-`memcached <http://memcached.org/>`_ to offload what would be computationally
-expensive data into RAM, thereby yielding enormous performance improvements in
-our software stack.
+`memcached <http://memcached.org/>`_ to improve application response time and
+scale computationally expensive software.
 
 I've setup and maintained memcached server clusters, and have experience working
 with the python memcached libraries (specifically, with Django's caching
-backend) to rapidly scale web applications.
+backend) to rapidly scale python web applications.
 
 #########
 Rackspace
