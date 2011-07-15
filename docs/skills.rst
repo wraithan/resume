@@ -123,3 +123,15 @@ scalable cloud infrastructure using `Rackspace Cloud Servers
 
 I'm familiar with their python APIs and CLI tools, and know how to easily
 automate server provisioning.
+
+########
+Asterisk
+########
+
+Over the past 3 years I've worked intimately with the popular open source PBX
+system, `Asterisk <http://www.asterisk.org/>`_.
+
+In addition to designing, implementing, and maintaining complex telephony
+systems for various companies, I've also made several performance patches, bug
+fixes, and built helper libraries to make interacting with Asterisk easier for
+developers.
