@@ -12,7 +12,7 @@ class CompanyTestCase(TestCase):
         self.company = Company()
 
     def test_uses_git(self):
-        self.assertTrue('git' in self.company.dvcs)
+        self.assertTrue('git' in self.company.vcs)
 
     def test_loves_testing(self):
         self.assertTrue(self.company.coverage > .50)
