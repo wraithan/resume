@@ -26,5 +26,8 @@ class CompanyTestCase(TestCase):
     def test_has_seen_the_it_crowd(self):
         self.assertTrue('it_crowd' in self.company.engineers.favorite.tv_shows)
 
+    def test_allows_side_projects(self):
+        self.assertTrue(self.company.allow_side_projects)
+
     def tearDown(self):
         del self.company
