@@ -21,4 +21,8 @@ Personality
 ###########
 
 * IRC is one of the first things I reconnect to when I open my laptop.
-* 
+* Karaoke enjoyer (unfortunately for my friends)
+* Long time Linux nerd
+* Polyglot
+* Cyclist, hoping to get several century rides in this next season.
+* Untraveled but not unwilling.
