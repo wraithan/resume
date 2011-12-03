@@ -5,9 +5,9 @@ The Resume of Wraithan (Chris McDonald), A Backend Developer
 Hi there, I'm `Wraithan <http://wraithan.net/>`_. This is my resume.
 
 .. note::
-    I forked this resume from rdegges, until this note is gone, this
-    is not an accurate account of my skills and may include traces
-    from his resume.
+    I forked this resume from rdegges, until this note is gone,
+    this is not an accurate account of my skills and may include
+    traces from his resume.
 
 Who is this guy?
 
