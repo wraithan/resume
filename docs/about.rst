@@ -2,53 +2,23 @@
 About Me
 ========
 
-I'm your typical hacker--I love learning new things, playing around with the
-latest tech, and figuring out how things work.
-
-My passion is building software that makes things simple. There's something
-about the process of solving problems in an elegant way that excites me.
+I am a social hacker from Portland, OR, USA. A large number of my evenings are spent hanging out with fellow programmers at cafes or bars. Commonly discussing our latest and greatest projects over some nachos.
 
 ##########
 Philosophy
 ##########
 
-My philosophy on software and life is the same: *be agile*. I strongly believe
-in learning from mistakes, iterating quickly, and building strength over time. I
-understand that big change is made from consistent small efforts, and strive to
-continuously improve myself every day.
-
-When I work on things, I give them 100% of my effort. Regardless of whether I'm
-folding laundry or writing unit tests, I thoroughly enjoy myself and constantly
-push myself to new levels of understanding and efficiency.
+There is a lot of great software out there, functionality wise if not code beauty wise. I find over time instead of building my own unique projects that provide something that stands on its own, I am gluing services together in order to make the web a more coherient place.
 
 #######
 Purpose
 #######
 
-My main purpose is to make the world an awesome place. I want to solve cool
-problems, and help make Earth the `best planet in the universe
-<http://en.wikipedia.org/wiki/Extrasolar_planet>`_ :)
-
-To this end, my daily goal is to push myself out of my comfort zone a little
-bit every day, and continuously improve. I want to build and create software
-that *rocks*.
+To be awesome.
 
 ###########
 Personality
 ###########
 
-I think the most accurate way to describe myself is a "laid-back programmer":
-
-* I enjoy wearing shorts, sandals, and t-shirts from `ThinkGeek
-  <http://www.thinkgeek.com/tshirts-apparel/>`_.
-* I *hate* Windows.
-* When I'm not programming I'm often attending programming events, or doing fun
-  outdoor activities like `CrossFit <http://www.teamcrossfit.com/>`_, biking,
-  hiking, and exploring.
-* I constantly build and contribute to open source projects.
-* I read every day.
-* I like writing on `my blog <http://rdegges.com/>`_.
-* I've got an uncanny ability for finding relevant gif images during IRC
-  conversations.
-
-I'm friendly, fun, and nerdy.
+* IRC is one of the first things I reconnect to when I open my laptop.
+* 
