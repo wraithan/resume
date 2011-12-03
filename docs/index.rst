@@ -1,20 +1,19 @@
-==========================================
-The Resume of Randall Degges, A Pythonista
-==========================================
+============================================================
+The Resume of Wraithan (Chris McDonald), A Backend Developer
+============================================================
 
-Hi there, I'm `Randall <http://rdegges.com/>`_. This is my resume. If you'd like
-to see the **technical** details, you'll need to check out my `resume project
-<https://github.com/rdegges/resume>`_ on github.
+Hi there, I'm `Wraithan <http://wraithan.net/>`_. This is my resume.
 
 .. note::
-    My resume is currently *under development*. I'll remove this notice once
-    it reaches a stable release ;)
+    I forked this resume from rdegges, until this note is gone, this
+    is not an accurate account of my skills and may include traces
+    from his resume.
 
-In a nutshell,
+Who is this guy?
 
-* I'm a python / Django / telephony developer.
-* I live in Los Angeles with my awesome wife Sami and dog Scribbles.
-* I love geek humor, loud music, tech books, writing, and open source software.
+* A backend developer who primarily hacks in Python utilizing Django
+* A native of Portland, OR, USA.
+* A nerd, cyclist, and metal head.
 
 #################
 Table of Contents
