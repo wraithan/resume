@@ -7,6 +7,8 @@ evenings are spent hanging out with fellow programmers at cafes or
 bars. Commonly discussing our latest and greatest projects over some
 nachos.
 
+
+
 ##########
 Philosophy
 ##########
@@ -26,9 +28,10 @@ To be awesome.
 Personality
 ###########
 
-* IRC is one of the first things I reconnect to when I open my laptop.
-* Karaoke enjoyer (unfortunately for my friends)
-* Long time Linux nerd
-* Polyglot
+* IRC is one of the first things I reconnect to when I open my laptop
+  or sit down at my desktop
+* Karaoke singer (unfortunately for my friends)
+* Long time Linux nerd (I used slackware when it was cool)
+* Programming Polyglot
 * Cyclist, hoping to get several century rides in this next season.
-* Untraveled but not unwilling.
+* Very much a go big or go home kind of person.
