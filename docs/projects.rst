@@ -20,7 +20,7 @@ push your docs are automatically rebuilt.
 This is not a project that I built, but is a project that I contribute
 to as well as help as support on. I can be commonly found taking some
 poorly maintained docs for a project I am using and converting them to
-sphinx, setting up a RTD project for them, and transfering ownership
+sphinx, setting up a RTD project for them, and transferring ownership
 to the author. That way instead of docs being a random markdown file
 in a repo, it has a nice url and theme.
 
@@ -61,11 +61,11 @@ standard bot. I thought it was silly to have to restart my bot
 whenever I wanted to add or remove a feature. Instead I chose to using
 Redis' pub/sub functionality and have what would be plugins run as
 services along side of the bot. An added benefit is if a service
-crashes, it doens't take the bot down with it.
+crashes, it doesn't take the bot down with it.
 
 This was my first foray into using Node. IRC bots have become sort of
 like a hello world to me when working in a new language. In this case
-I orginally wrote the core IRC handling code myself to better
+I originally wrote the core IRC handling code myself to better
 understand Node. Then I found node-irc_ and after fixing up their docs
 so they were on RTD, cleaning up the code a bit, and adding some
 needed features (and getting all of those pull requests accepted) I
@@ -75,12 +75,31 @@ This bot was developed mostly while I working at Aquameta_ and is a
 core piece of infrastructure for them now. This is why the repo is
 under their name.
 
+#############
+webhook-relay
+#############
+
+webhook-relay_ is a service I was architecting  to fill a hole in
+gluing webhooks together as well as making webhooks more robust. The
+original feature I wanted was a way to mutliplex and redirect an
+incoming webhook. For example, I have almost all of the repos I
+commonly work on, on RTD, also I have my IRC bot listening for GitHub
+post receive hooks. It seems silly to setup both of them on every
+repo, and if one of the URLs changes I have to go through all of my
+projects and change them.
+
+This provides a solution by having hooks, which are urls listening for
+callbacks from webhooks. You then chain a hook together with at least
+one emitter. 
+
 
 .. _GitHub: https://github.com/wraithan
 .. _`Read the Docs`: http://readthedocs.org/
+.. _sphinx: http://sphinx.pocoo.org/
 .. _geoloqi-workout-tracker: https://github.com/wraithan/geoloqi-workout-tracker
 .. _Geoloqi: http://geoloqi.com/
 .. _geoloqi-python: https://github.com/wraithan/geoloqi-python
 .. _ZenIRCBot: https://github.com/aquameta/zenircbot
 .. _node-irc: https://github.com/martynsmith/node-irc
 .. _Aquameta: http://aquameta.com/
+.. _webhook-relay: https://github.com/aquameta/webhook-relay
