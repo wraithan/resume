@@ -24,3 +24,6 @@ workout tracker, as well as a location tracker for quantified self
 stuff. Also Geoloqi provides a way to share my location so when doing
 long bike rides (such as to the coast) and my friends and family are
 concerned they can watch my progress.
+
+.. _GitHub: https://github.com/wraithan
+.. _Geoloqi: http://geoloqi.com/
