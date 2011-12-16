@@ -77,6 +77,7 @@ under their name.
 
 
 .. _GitHub: https://github.com/wraithan
+.. _`Read the Docs`: http://readthedocs.org/
 .. _geoloqi-workout-tracker: https://github.com/wraithan/geoloqi-workout-tracker
 .. _Geoloqi: http://geoloqi.com/
 .. _geoloqi-python: https://github.com/wraithan/geoloqi-python
