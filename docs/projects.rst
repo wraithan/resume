@@ -89,8 +89,24 @@ repo, and if one of the URLs changes I have to go through all of my
 projects and change them.
 
 This provides a solution by having hooks, which are urls listening for
-callbacks from webhooks. You then chain a hook together with at least
-one emitter. 
+callbacks from webhooks. Then you associate it with at least one
+emitter. In the above use case I'd have a software project hook, and a
+couple callback emitters, one pointed at my bot, one pointed at Read
+the Docs. Then if I ever moved where my bot was hosted, I could easily
+change the url in the emitter and have all of my repos update
+automatically. Also I only have to add one URL to my post receive
+hooks on GitHub.
+
+######
+Resume
+######
+
+That would be this_. I have it up on GitHub because it is easier to
+maintain there. It is written in ReStructured Text using sphinx so I
+can host it on Read the Docs. This way I get a clean looking resume
+that I can export as a PDF, or just directly link to.
+
+I was inspired by another user who has his resume_
 
 
 .. _GitHub: https://github.com/wraithan
@@ -102,4 +118,6 @@ one emitter.
 .. _ZenIRCBot: https://github.com/aquameta/zenircbot
 .. _node-irc: https://github.com/martynsmith/node-irc
 .. _Aquameta: http://aquameta.com/
-.. _webhook-relay: https://github.com/aquameta/webhook-relay
+.. _webhook-relay: https://github.com/wraithan/webhook-relay
+.. _this: https://github.com/wraithan/resume
+.. _resume: http://resume.readthedocs.org/
