@@ -106,7 +106,8 @@ maintain there. It is written in ReStructured Text using sphinx so I
 can host it on Read the Docs. This way I get a clean looking resume
 that I can export as a PDF, or just directly link to.
 
-I was inspired by another user who has his resume_
+I was inspired by another user who has his resume_ on Read The Docs as
+well!
 
 
 .. _GitHub: https://github.com/wraithan
