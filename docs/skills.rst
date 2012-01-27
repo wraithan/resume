@@ -22,7 +22,8 @@ writing Django applications.
 Django
 ******
 
-
+If I am going to write a web app, and probably going to start with
+`django-admin.py startproject <project name>`. 
 
 ******
 Celery
