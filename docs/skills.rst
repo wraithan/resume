@@ -23,19 +23,30 @@ Django
 ******
 
 If I am going to write a web app, and probably going to start with
-`django-admin.py startproject <project name>`. 
+`django-admin.py startproject <project name>`. I've been using it for
+years now on projects both large and small. The community encourages
+writing resuable code and sharing it which agrees strongly with how I
+feel about writing software.
 
 ******
 Celery
 ******
 
+Celery makes scaling Django sites much easier. When I start getting to
+complex logic that takes more than a couple miliseconds or relies on
+an external service, it is time to start using celery. Most of my
+experience with celery is using Redis as the queue backend.
 
+******
+Fabric
+******
 
-######
-puppet
-######
-
-
+I've help run a spring at a PSF sponsored sprint in Portland. I
+commonly participate in the IRC room on freenode helping people use
+this library. It has become a tool in my bag that I reach to whenever
+I need to do anything that requires more than a few steps on the
+commandline or would be well served by having access to my project
+settings.
 
 #########
 memcached
