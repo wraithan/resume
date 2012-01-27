@@ -48,24 +48,33 @@ I need to do anything that requires more than a few steps on the
 commandline or would be well served by having access to my project
 settings.
 
-#########
-memcached
-#########
-
-
-
 #####
 Redis
 #####
 
-
+I've used Redis as a caching backend for Django, a session backend for
+Django, a queue backend for Celery, and for its pub/sub features in my
+IRC bot. I really enjoy using it and so far it has stood up to
+everything I've thrown at it so far. I look forward to working with
+this and following the progression of this project in the years to
+come.
 
 ##########
 PostgreSQL
 ##########
 
-
+This is my preferred relational database. It scales pretty well, it is
+open source, and I've come to rely on it anytime I need a database. I
+know the basics of tuning it, though I am by no means an expert. I've
+used a few tools related to it such as pgfouine, pgbouncer, and
+bucardo and am comfortable with them.
 
 ####
 Node
 ####
+
+Node is a recent addition to my bag of tricks. I've been using it for
+a socket server via socket.io as well as for my IRC bot. It has made
+JavaScript an enjoyable experience for me. Previously, when I've used
+JavaScript I also had to work with the DOM, which as a backend
+developer wasn't a desire of mine.
