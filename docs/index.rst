@@ -20,3 +20,4 @@ Table of Contents
     about
     skills
     projects
+    gigs
