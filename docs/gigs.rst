@@ -2,7 +2,6 @@
 Gigs
 ====
 
-########
 Aquameta
 ########
 Senior Software Developer
@@ -19,8 +18,6 @@ choices in what supporting software we were going to use such as Nginx
 vs Apache. I also, along with one of my co-workers, helped foster a
 healthy appreciation of testing in the company.
 
-
-##################
 Parthenon Software
 ##################
 Software Developer
@@ -32,7 +29,6 @@ requirements. I fixed up a unit test suite that had fallen out of use
 due to rapidly changing requirements. I then spent some time working
 adding payment gateways and working with external APIs.
 
-##############
 Retail Imaging
 ##############
 Tech Support
@@ -52,7 +48,6 @@ ticket software, as there were a few people who wrote scripts but they
 were so different that it was hard to consolidate features before the
 library existed.
 
-######################
 Critical Path Software
 ######################
 QA Tester
@@ -75,7 +70,6 @@ test sofware, write good bug reports, and work in a important related
 field to where my passion lies.
 
 
-##################
 Transim Technology
 ##################
 Intern Software Developer
