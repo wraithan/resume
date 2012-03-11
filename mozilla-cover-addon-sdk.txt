@@ -1,12 +1,12 @@
-This is my cover letter for the Web Developer position.
+This is my cover letter for the SDK Engineer position.
 
 Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
 background in web development. Recently that has meant mixing
-technologies and playing with some of the newer things like Node.js. I
-am applying for this position for a number of reasons, the primary two
-being:
+technologies and playing with some of the newer things like Node.js
+and Clojure. I am applying for this position for a number of reasons,
+the primary two being:
 
   * Everyone I know who works for Mozilla loves their job and the
     people they work with.
