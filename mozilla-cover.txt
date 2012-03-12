@@ -1,3 +1,6 @@
+This is a hybrid cover letter as I will be applying for two positions
+at Mozilla, Web Dev and SDK Engineer.
+
 Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
@@ -17,7 +20,7 @@ For the last 3 years I've been writing web applications in Python
 using Django. Most of them have been small personal sites, but I've
 also worked on a team developing a large site that catered to a large
 number of users. As well as my work to help support and maintain Read
-the Docs, a project Mozilla is a sponsors to my delight.
+the Docs, a project Mozilla sponsors, to my delight.
 
 I have used JavaScript as a side effect of being a web developer for
 the last 5-6 years. I didn't really gain a passion for it until about
