@@ -31,7 +31,7 @@ really enjoyed it. That being said there were some rough edges where
 the SDK shows it young age. I will very likely be sending pull
 requests and working on this project regardless of if I am hired for
 it, I just thought it would be worth applying to work on it full time
-along side my application.
+along side my application for the Web Development team.
 
 My passion for great, open source, well documented code, as well as my
 passion to keep learning and advancing myself as a developer are some
