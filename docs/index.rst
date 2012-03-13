@@ -29,6 +29,6 @@ Table of Contents
     :maxdepth: 2
 
     about
-    skills
+    technical_skills
     projects
     gigs

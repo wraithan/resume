@@ -1,10 +1,10 @@
-======
-Skills
-======
+================
+Technical Skills
+================
 
-This is a subset of my skills that I feel most comfortable with. I've
-played with writing things ranging from graphics engines, to decoding
-game save file formats, to window managers, to IRC bots, to web sites.
+This is a list of my stronger technical skills. I've played with
+writing things ranging from graphics engines, to decoding game save
+file formats, to window managers, to IRC bots, to web sites.
 
 For a concise list of languages and time spent in them:
 
@@ -131,3 +131,4 @@ out co-operative micro-services such as:
 * A layer for receiving web hooks.
 * A GitHub post receive hook processor.
 * Process management for all of these micro-services.
+
