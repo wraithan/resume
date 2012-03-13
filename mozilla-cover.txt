@@ -35,6 +35,8 @@ passion to keep learning and advancing myself as a developer are some
 of the main reasons I feel I would be a great fit at Mozilla.
 
 For a more complete profile of the projects I work on, jobs I've had,
-and other details please see my resume. I have included it along
-with this cover letter, it is also available on Read the Docs at
-http://wraithan.readthedocs.org/
+and other details please see my resume. I have two versions a more
+concise traditional one and a web based one hosted on Read the Docs
+
+Concise: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
+Web Based: http://wraithan.readthedocs.org/
