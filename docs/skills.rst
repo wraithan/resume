@@ -21,12 +21,19 @@ I've spent the last 5 years programming in Python, 3 of that was
 professional. Most of my experience with Python is centered around
 writing Django applications.
 
+Some things I've built outside of web applications:
+
+* A command line task management system
+* Screen scrapers
+* Feed aggregators
+* Plugins and extensions for various tools that embed Python.
+
 ######
 Django
 ######
 
 If I am going to write a web app, and probably going to start with
-`django-admin.py startproject <project name>`. I've been using it for
+``django-admin.py startproject <project name>``. I've been using it for
 years now on projects both large and small. The community encourages
 writing resuable code and sharing it which agrees strongly with how I
 feel about writing software.
