@@ -34,9 +34,15 @@ Django
 
 If I am going to write a web app, and probably going to start with
 ``django-admin.py startproject <project name>``. I've been using it for
-years now on projects both large and small. The community encourages
-writing resuable code and sharing it which agrees strongly with how I
-feel about writing software.
+years now on projects both large and small.
+
+The number and type of projects I've done is too large to enumerate
+here, but here are some highlights:
+
+* Three sites that shared the same code base and served a large number
+  of users.
+* OAuth2 (spec 10 and 11) based signup and authentication.
+* Numerous small community and business sites.
 
 ######
 Celery

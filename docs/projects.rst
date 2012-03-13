@@ -71,10 +71,6 @@ so they were on RTD, cleaning up the code a bit, and adding some
 needed features (and getting all of those pull requests accepted) I
 switched my bot over to it.
 
-This bot was developed mostly while I working at Aquameta_ and is a
-core piece of infrastructure for them now. This is why the repo is
-under their name.
-
 #############
 webhook-relay
 #############
@@ -116,9 +112,8 @@ well!
 .. _geoloqi-workout-tracker: https://github.com/wraithan/geoloqi-workout-tracker
 .. _Geoloqi: http://geoloqi.com/
 .. _geoloqi-python: https://github.com/wraithan/geoloqi-python
-.. _ZenIRCBot: https://github.com/aquameta/zenircbot
+.. _ZenIRCBot: https://github.com/wraithan/zenircbot
 .. _node-irc: https://github.com/martynsmith/node-irc
-.. _Aquameta: http://aquameta.com/
 .. _webhook-relay: https://github.com/wraithan/webhook-relay
 .. _this: https://github.com/wraithan/resume
 .. _resume: http://resume.readthedocs.org/
