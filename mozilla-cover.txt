@@ -1,6 +1,9 @@
 This is a hybrid cover letter as I will be applying for two positions
 at Mozilla, Web Dev and SDK Engineer.
 
+WebDev: http://careers.mozilla.org/en-US/position/of74Vfw5
+SDK Engineer: http://careers.mozilla.org/en-US/position/o8pdWfwq
+
 Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
@@ -17,24 +20,15 @@ being:
     core values.
 
 For the last 3 years I've been writing web applications in Python
-using Django. Most of them have been small personal sites, but I've
-also worked on a team developing a large site that catered to a large
-number of users. As well as my work to help support and maintain Read
-the Docs, a project Mozilla sponsors, to my delight.
+using Django. Including developing large sites that required
+considerable caching and offloading. Also I work to help support and
+maintain Read the Docs, a project Mozilla sponsors, to my delight.
 
 I have used JavaScript as a side effect of being a web developer for
 the last 5-6 years. I didn't really gain a passion for it until about
 8 months ago when I started using Node.js and I learned how elegant it
 can be. Since then I've spent a great deal of time playing with
 Node.js as well as newer web JavaScript technologies.
-
-The reason I applying for the Add-on SDK position in particular is
-that I recently wrote my first Firefox add-on using the new SDK and
-really enjoyed it. That being said there were some rough edges where
-the SDK shows it young age. I will very likely be sending pull
-requests and working on this project regardless of if I am hired for
-it, I just thought it would be worth applying to work on it full time
-along side my application for the Web Development team.
 
 My passion for great, open source, well documented code, as well as my
 passion to keep learning and advancing myself as a developer are some
