@@ -22,6 +22,12 @@ code beauty wise. I find over time instead of building my own unique
 projects that provide something that stands on its own, I am gluing
 services together in order to make the web a more coherent place.
 
+Finally there is the wonderful micro high that comes along with
+solving a problem. It is even better if it was a hard problem or you
+have an elegant solution. The best is a really hard problem, really
+elegant solution, and being able to show it off to my friends because
+it is open source.
+
 ###########
 Personality
 ###########
