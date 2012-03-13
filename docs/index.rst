@@ -30,5 +30,6 @@ Table of Contents
 
     about
     technical_skills
+    other_skills
     projects
     gigs
