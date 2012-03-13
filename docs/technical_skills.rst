@@ -132,3 +132,11 @@ out co-operative micro-services such as:
 * A GitHub post receive hook processor.
 * Process management for all of these micro-services.
 
+###
+Git
+###
+
+I am commonly found teaching people how to use git, recover from
+situations they and not sure how to get out of, and giving my opinions
+on best practices based on experience and discussion with others that
+have passion about how to use their version control system.
