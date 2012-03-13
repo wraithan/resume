@@ -6,13 +6,16 @@ This is a subset of my skills that I feel most comfortable with. I've
 played with writing things ranging from graphics engines, to decoding
 game save file formats, to window managers, to IRC bots, to web sites.
 
+For a concise list of languages and time spent in them:
+
+* 5+ years experience with Python, JavaScript, and SQL.
+* 2+ years experience with C++, Perl, PHP, Java, and Lua.
+* 1+ years experience with Haskell, C, and C#.
+* Have played with many others including Common Lisp, Ruby, Go, and Clojure
+
 ######
 Python
 ######
-
-This has come to be my native tongue, from the largest of applications
-down to needing a REPL to do some calculations Python is what I reach
-for.
 
 I've spent the last 5 years programming in Python, 3 of that was
 professional. Most of my experience with Python is centered around
@@ -78,7 +81,8 @@ open source, and I've come to rely on it anytime I need a database.
 JavaScript
 ##########
 
-I've used it for doing front end work on the web, building a Firefox
+I've used it for many years now. Mostly doing front end work on the
+web. But more recently I've also done things like building a Firefox
 add-on, and many little micro-services.
 
 ######
@@ -89,7 +93,7 @@ When I am doing JavaScript for the sake of front end development I
 tend to lean on this library quite a bit for its selectors and other
 niceties.
 
-* Built complex dynamic front ends using AJAX
+* Built many dynamic front ends using AJAX
 * Built a Firefox Add-on that uses jQuery to build and modify most of
   the DOM.
 
