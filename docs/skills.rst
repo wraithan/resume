@@ -32,49 +32,85 @@ feel about writing software.
 Celery
 ######
 
-Celery makes scaling Django sites much easier. When I start getting to
-complex logic that takes more than a couple miliseconds or relies on
-an external service, it is time to start using celery. Most of my
-experience with celery is using Redis as the queue backend.
+I use this when I need to offload tasks in Django based sites. Here
+are a few things I have done with it:
+
+* Helped architech and develop a lazy caching backend that updated
+  itself out of band using Celery, or calculated in line if celery
+  hadn't updated the cache yet.
+* Divided tasks into separated queues so the Celery daemon could be
+  shared to multiple servers.
 
 ######
 Fabric
 ######
 
-I've help run a spring at a PSF sponsored sprint in Portland. I
-commonly participate in the IRC room on freenode helping people use
-this library. It has become a tool in my bag that I reach to whenever
-I need to do anything that requires more than a few steps on the
-commandline or would be well served by having access to my project
-settings.
+This tool has saved me hours, if not days of my life.
+
+* I have ran 2 sprints on it, one PSF sponsored, the other at PyCon.
+* Made deployment simple and very reproducible causing it to be fast
+  and take care of all the repetitive details for the team.
 
 #####
 Redis
 #####
 
-I've used Redis as a caching backend for Django, a session backend for
-Django, a queue backend for Celery, and for its pub/sub features in my
-IRC bot. I really enjoy using it and so far it has stood up to
-everything I've thrown at it so far. I look forward to working with
-this and following the progression of this project in the years to
-come.
+I reach for this when I want a key/value store or centralized
+pub/sub. I have use it for:
+
+* Django caching backend.
+* Django session storage.
+* Celery queue backend (including connection pooling)
+* Micro services based IRC bot using Redis' pub/sub as a transport.
 
 ##########
 PostgreSQL
 ##########
 
 This is my preferred relational database. It scales pretty well, it is
-open source, and I've come to rely on it anytime I need a database. I
-know the basics of tuning it, though I am by no means an expert. I've
-used a few tools related to it such as pgfouine, pgbouncer, and
-bucardo and am comfortable with them.
+open source, and I've come to rely on it anytime I need a database.
+
+* Have used tools such as pgfouine to profile and optimize usage.
+* Used pgbouncer to do connection pooling to decrease latency.
+* Have scaled to tables with millions of rows.
+
+##########
+JavaScript
+##########
+
+I've used it for doing front end work on the web, building a Firefox
+add-on, and many little micro-services.
+
+######
+jQuery
+######
+
+When I am doing JavaScript for the sake of front end development I
+tend to lean on this library quite a bit for its selectors and other
+niceties.
+
+* Built complex dynamic front ends using AJAX
+* Built a Firefox Add-on that uses jQuery to build and modify most of
+  the DOM.
+
+##################
+Firefox Add-on SDK
+##################
+I've only built one but plan on building more.
+
+* An add-on for listing GitHub repos and quick links for them (code,
+  issues, wiki, etc)
+
 
 ####
 Node
 ####
 
-Node is a recent addition to my bag of tricks. I've been using it for
-a socket server via socket.io as well as for my IRC bot. It has made
-JavaScript an enjoyable experience for me. Previously, when I've used
-JavaScript I also had to work with the DOM, which as a backend
-developer wasn't a desire of mine.
+Node is a recent addition to my bag of tricks. It sparked the fire in
+me to really start enjoying JavaScript. I have been using it to build
+out co-operative micro-services such as:
+
+* An IRC bot.
+* A layer for receiving web hooks.
+* A GitHub post receive hook processor.
+* Process management for all of these micro-services.
