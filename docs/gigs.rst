@@ -64,7 +64,7 @@ Transim Technology
 Intern Software Developer (Dec 05 - Aug 06)
 *******************************************
 
-This was my first foyer into the world of software development at a
+This was my first foray into the world of software development at a
 company. The stack was a large java back end with a PHP layer on top
 with liberal use of Perl as glue. I was tasked with writing
 documentation for various parts of the system, improving upon perl
