@@ -15,7 +15,7 @@ scale.
 * Was part of a team that implemented, maintained, and extended a
   large Django application that powered 3 sites.
 * Scaled that application using celery for offloading and generous
-  caching.
+  amounts of caching.
 * Upgraded Django between major versions twice. From 1.1 to 1.2 and
   from 1.2 to 1.3.
 * Wrote and encouraged the writing of both unit tests and functional
