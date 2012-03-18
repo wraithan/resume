@@ -17,59 +17,34 @@ automated building, and easy to select themes developers would write
 docs. Once they are written maintaining them is easy because when you
 push your docs are automatically rebuilt.
 
-This is not a project that I built, but is a project that I contribute
-to as well as help as support on. I can be commonly found taking some
-poorly maintained docs for a project I am using and converting them to
-sphinx, setting up a RTD project for them, and transferring ownership
-to the author. That way instead of docs being a random markdown file
-in a repo, it has a nice url and theme.
+What I did for the project:
 
-#######################
-geoloqi-workout-tracker
-#######################
-
-geoloqi-workout-tracker_ is currently just a web interface that uses
-OAuth2 to log into Geoloqi_, then lets you start and stop workouts. It
-will soon let you associate your account with your DailyMile account
-(and others as I figure out their terms of usage on their APIs or they
-start to provide an API). Upon stopping a workout it will gather your
-route data from Geoloqi then ship it to which ever workout trackers
-you have associated for that type of workout.
-
-It came from wanting to write something using the Geoloqi_ platform. I
-started writing this because I found it quite dumb to have to run a
-workout tracker, as well as a location tracker for quantified self
-stuff. Also Geoloqi provides a way to share my location so when doing
-long bike rides (such as to the coast) and my friends and family are
-concerned they can watch my progress.
-
---------------
-geoloqi-python
---------------
-
-geoloqi-python_ is a support library for geoloqi-workout tracker that
-others expressed interest in using at a Geoloqi hackathon. So I broke
-it out and made it available. It is a very thin wrapper around
-Geoloqi's API and will be more fleshed out as I use it more.
+* Wrote better integration with GitHub, including tests.
+* Made it possible for multiple people be admins on a project.
+* Took part in architecture discussions with the maintainer.
 
 #########
 ZenIRCBot
 #########
 
 ZenIRCBot_ is a IRC bot that works a bit differently than your
-standard bot. I thought it was silly to have to restart my bot
-whenever I wanted to add or remove a feature. Instead I chose to using
-Redis' pub/sub functionality and have what would be plugins run as
-services along side of the bot. An added benefit is if a service
-crashes, it doesn't take the bot down with it.
+standard bot. Features (and interesting to implement things) include:
 
-This was my first foray into using Node. IRC bots have become sort of
-like a hello world to me when working in a new language. In this case
-I originally wrote the core IRC handling code myself to better
-understand Node. Then I found node-irc_ and after fixing up their docs
-so they were on RTD, cleaning up the code a bit, and adding some
-needed features (and getting all of those pull requests accepted) I
-switched my bot over to it.
+* Microservice architecture
+* Redis pub/sub as a transport
+* Services can be written in any language.
+* Core bot written in Node.js but reference implementations are also
+  in Python and Clojure.
+
+#######################
+geoloqi-workout-tracker
+#######################
+
+geoloqi-workout-tracker_ is my stab at building something on the
+Geoloqi_ platform. Interesting bits of this:
+
+* Register new accounts and login using Geoloqi's OAuth2 service.
+* Associate accounts with DailyMile using OAuth2.
 
 #############
 webhook-relay
