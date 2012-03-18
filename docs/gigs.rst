@@ -2,6 +2,9 @@
 Gigs
 ====
 
+My professional work in the software industry over the years:
+
+
 Aquameta
 ########
 Senior Software Developer (Mar 10 - Feb 12)

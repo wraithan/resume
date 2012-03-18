@@ -3,8 +3,8 @@ Projects
 ========
 
 The vast majority of my projects are open source and can be found on
-GitHub_. In here I am going to highlight some of my favorite projects
-to work on or ones with the coolest premise behind them.
+GitHub_. This is a list of projects I've written or contributed to in
+some way. I love discussing them, so feel free to ask me about them.
 
 #############
 Read the Docs
