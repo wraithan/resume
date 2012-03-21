@@ -2,6 +2,15 @@
 The Resume of Chris McDonald, A Backend Developer
 =================================================
 
+.. figure:: wraithan_osbridge.jpg
+    :alt: Photo of me at OS Bridge
+    :align: right
+    :width: 404px
+    :height: 538px
+    :scale: 50 %
+
+    Open Source Bridge 2011.
+
 Hi there, I'm Chris McDonald but most people call me `Wraithan
 <http://wraithan.net/>`_. This is my web resume. If you are looking
 for a more concise one, you can find that `here
