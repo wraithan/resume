@@ -7,11 +7,11 @@ SDK Engineer: http://careers.mozilla.org/en-US/position/o8pdWfwq
 Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
-background in web development. In recent years that has been a lot of
-Django. Also, in my free time I have been mixing technologies and
-playing with some of the newer things like Node.js and Clojure. I am
-applying for this position for a number of reasons, the primary two
-being:
+background in web development. In recent years, that has been a lot of
+Django but there is also some PHP in my past. Also, in my free time I
+have been mixing technologies and playing with some of the newer
+things like Node.js and Clojure. I am applying for this position for a
+number of reasons, the primary two being:
 
   * Open source is near and dear to me and the opportunity to write
     open source software all day every day is very in line with my
