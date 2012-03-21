@@ -76,7 +76,7 @@ Intern Software Developer (Dec 05 - Aug 06)
 *******************************************
 
 This was my first foray into the world of software development at a
-company. The stack was a large java back end with a PHP layer on top
+company. The stack was a large java backend with a PHP layer on top
 with liberal use of Perl as glue.
 
 * Cleaned up and maintained several in-house tools written in Perl,
