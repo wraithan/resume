@@ -24,8 +24,8 @@ Who is this guy?
 * A nerd, cyclist, and metal head.
 
 But more than that I've been hacking in Python for 4-5 years at this
-point, 3 of which I used Django and was primarily using it for web
-development and dev ops purposes.
+point, and was primarily using it for web development and devops
+purposes, 3 of those years I was using Django.
 
 I commonly am teaching myself new languages and frameworks in my spare
 time, most recently I began using Clojure which I find to be a lot of
