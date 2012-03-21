@@ -35,6 +35,8 @@ standard bot. Features (and interesting to implement things) include:
 * Services can be written in any language.
 * Core bot written in Node.js but reference implementations are also
   in Python and Clojure.
+* Patched various third party libraries to enable features in each of
+  the bots.
 
 #######################
 geoloqi-workout-tracker
@@ -50,23 +52,37 @@ Geoloqi_ platform. Interesting bits of this:
 webhook-relay
 #############
 
-webhook-relay_ is a service I was architecting  to fill a hole in
-gluing webhooks together as well as making webhooks more robust. The
-original feature I wanted was a way to mutliplex and redirect an
-incoming webhook. For example, I have almost all of the repos I
-commonly work on, on RTD, also I have my IRC bot listening for GitHub
-post receive hooks. It seems silly to setup both of them on every
-repo, and if one of the URLs changes I have to go through all of my
-projects and change them.
+webhook-relay_ is a service I was architecting to fill a hole in
+gluing webhooks together as well as making webhooks more robust.
 
-This provides a solution by having hooks, which are urls listening for
-callbacks from webhooks. Then you associate it with at least one
-emitter. In the above use case I'd have a software project hook, and a
-couple callback emitters, one pointed at my bot, one pointed at Read
-the Docs. Then if I ever moved where my bot was hosted, I could easily
-change the url in the emitter and have all of my repos update
-automatically. Also I only have to add one URL to my post receive
-hooks on GitHub.
+* Forward and multiplex incoming webhooks using celery.
+
+################
+aichallenge-ants
+################
+
+This was `my entry`_ into aichallenge_ for the ants competition.
+
+* Wrote a custom weight dispersion algorithm.
+* Used PyPy.
+
+#####
+speck
+#####
+
+speck_ command line interface to `letsfreckle`_.
+
+* Used baker_ to do the command line argument and function parsing
+  easier.
+* Interacted with an external REST API.
+
+######
+Fabric
+######
+
+Fabric_ is a library to make remote system management easier. While
+I've not directly contributed to Fabric, I have ran multiple code
+sprints for it.
 
 ######
 Resume
@@ -92,3 +108,8 @@ well!
 .. _webhook-relay: https://github.com/wraithan/webhook-relay
 .. _this: https://github.com/wraithan/resume
 .. _resume: http://resume.readthedocs.org/
+.. _aichallenge: http://aichallenge.org/
+.. _letsfreckle: http://letfreckle.com/
+.. _baker: http://pypi.python.org/pypi/Baker/
+.. _speck: https://github.com/wraithan/speck
+.. _`my entry`: https://github.com/wraithan/aichallenge-ants
