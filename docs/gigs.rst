@@ -2,13 +2,17 @@
 Gigs
 ====
 
-My professional work in the software industry over the years:
+My professional work in the software industry over the years. There is
+a bit of time between jobs here and there where I was working
+non-technical jobs and spending a lot of time on personal
+:doc:`projects <\projects>`
+working to develop the skills needed to work in the industry.
 
 
 Aquameta
 ########
 Senior Software Developer (Mar '10 - Feb '12)
-*******************************************
+*********************************************
 
 This was my most recent job, I loved this company and learned a great
 deal while I was working there. It is where I cut my teeth on Django
@@ -32,7 +36,7 @@ scale.
 Parthenon Software
 ##################
 Software Developer (Sept '09 - Nov '09)
-*************************************
+***************************************
 
 This was a PHP shop I worked at for a short while. I did development
 on a well established code base.
@@ -50,7 +54,7 @@ on a well established code base.
 Critical Path Software
 ######################
 QA Tester (May '08 - Aug '08)
-***************************
+*****************************
 
 Here I worked in the QA department testing software and hardware. The
 primary project I was hired for were 2 lines of computers that a
@@ -73,7 +77,7 @@ off a Blu-Ray.
 Transim Technology
 ##################
 Intern Software Developer (Dec '05 - Aug '06)
-*******************************************
+*********************************************
 
 This was my first foray into the world of software development at a
 company. The stack was a large java backend with a PHP layer on top
