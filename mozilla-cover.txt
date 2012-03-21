@@ -25,10 +25,11 @@ considerable caching and offloading. Also I work to help support and
 maintain Read the Docs, a project Mozilla sponsors, to my delight.
 
 I have used JavaScript as a side effect of being a web developer for
-the last 5-6 years. I didn't really gain a passion for it until about
-8 months ago when I started using Node.js and I learned how elegant it
-can be. Since then I've spent a great deal of time playing with
-Node.js as well as newer web JavaScript technologies.
+the last 5-6 years. About 8 months ago when I started using Node.js is
+when I really gained a passion for this language. Using it in a more
+pure form (without the DOM) I learned how elegant it can be. Since
+then I've spent a great deal of time playing with Node.js as well as
+newer web JavaScript technologies.
 
 My passion for great, open source, well documented code, as well as my
 passion to keep learning and advancing myself as a developer are some
