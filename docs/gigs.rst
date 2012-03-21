@@ -7,7 +7,7 @@ My professional work in the software industry over the years:
 
 Aquameta
 ########
-Senior Software Developer (Mar 10 - Feb 12)
+Senior Software Developer (Mar '10 - Feb '12)
 *******************************************
 
 This was my most recent job, I loved this company and learned a great
@@ -31,7 +31,7 @@ scale.
 
 Parthenon Software
 ##################
-Software Developer (Sept 09 - Nov 09)
+Software Developer (Sept '09 - Nov '09)
 *************************************
 
 This was a PHP shop I worked at for a short while. I did development
@@ -49,7 +49,7 @@ on a well established code base.
 
 Critical Path Software
 ######################
-QA Tester (May 08 - Aug 08)
+QA Tester (May '08 - Aug '08)
 ***************************
 
 Here I worked in the QA department testing software and hardware. The
@@ -57,7 +57,7 @@ primary project I was hired for were 2 lines of computers that a
 company was going to release and they wanted some independant stress
 testing done in a wide range of activities. Online gaming, word
 processing, downloading content, watching HD video both streaming and
-off a BluRay.
+off a Blu-Ray.
 
 * Learned to write very effective bug reports.
 * Wrote and executed test plans, tracking progress and reporting
@@ -72,7 +72,7 @@ off a BluRay.
 
 Transim Technology
 ##################
-Intern Software Developer (Dec 05 - Aug 06)
+Intern Software Developer (Dec '05 - Aug '06)
 *******************************************
 
 This was my first foray into the world of software development at a
