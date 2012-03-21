@@ -7,10 +7,9 @@ SDK Engineer: http://careers.mozilla.org/en-US/position/o8pdWfwq
 Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
-background in web development. In recent years, that has been a lot of
-Django but there is also some PHP in my past. Also, in my free time I
-have been mixing technologies and playing with some of the newer
-things like Node.js and Clojure. I am applying for this position for a
+background in web development, mostly using Django. Also, in my free
+time I like mixing technologies and playing with some of newer things
+like Node.js and Clojure. I am applying for these positions for a
 number of reasons, the primary two being:
 
   * Open source is near and dear to me and the opportunity to write
@@ -24,7 +23,7 @@ number of reasons, the primary two being:
 For the last 3 years I've been writing web applications in Python
 using Django. Including developing large sites that required
 considerable caching and offloading. Also I work to help support and
-maintain Read the Docs, a project Mozilla sponsors, to my delight.
+maintain Read the Docs, a project Mozilla sponsors to my delight.
 
 I have used JavaScript as a side effect of being a web developer for
 the last 5-6 years. About 8 months ago when I started using Node.js is
