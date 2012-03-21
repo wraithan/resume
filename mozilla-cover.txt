@@ -13,11 +13,13 @@ playing with some of the newer things like Node.js and Clojure. I am
 applying for this position for a number of reasons, the primary two
 being:
 
-  * Everyone I know who works for Mozilla loves their job and the
-    people they work with.
   * Open source is near and dear to me and the opportunity to write
     open source software all day every day is very in line with my
     core values.
+  * Variety is the spice of life, having a wide range of projects to
+    work on is not only fun, but keeps me motivated. I am looking
+    forward to diving into the many existing, and future projects that
+    Mozilla has to offer.
 
 For the last 3 years I've been writing web applications in Python
 using Django. Including developing large sites that required
