@@ -113,3 +113,4 @@ well!
 .. _baker: http://pypi.python.org/pypi/Baker/
 .. _speck: https://github.com/wraithan/speck
 .. _`my entry`: https://github.com/wraithan/aichallenge-ants
+.. _Fabric: http://fabfile.org/
