@@ -15,10 +15,10 @@ number of reasons, the primary two being:
   * Open source is near and dear to me and the opportunity to write
     open source software all day every day is very in line with my
     core values.
-  * Variety is the spice of life, having a wide range of projects to
-    work on is not only fun, but keeps me motivated. I am looking
-    forward to diving into the many existing, and future projects that
-    Mozilla has to offer.
+
+  * Having a wide range of projects to work on is not only fun, but
+    keeps me motivated. I am looking forward to diving into the many
+    existing, and future projects that Mozilla has to offer.
 
 For the last 3 years I've been writing web applications in Python
 using Django. Including developing large sites that required
@@ -40,5 +40,5 @@ For a more complete profile of the projects I work on, jobs I've had,
 and other details please see my resume. I have two versions a more
 concise traditional one and a web based one hosted on Read the Docs
 
-Concise: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
+Traditional: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
 Web Based: http://wraithan.readthedocs.org/
