@@ -34,11 +34,18 @@ Parthenon Software
 Software Developer (Sept 09 - Nov 09)
 *************************************
 
-This was a PHP shop I worked at. Here I gained experience in gathering
-requirements from a client and organizing and implementing those
-requirements. I fixed up a unit test suite that had fallen out of use
-due to rapidly changing requirements. I then spent some time working
-adding payment gateways and working with external APIs.
+This was a PHP shop I worked at for a short while. I did development
+on a well established code base.
+
+* Updated unit tests, allowing for more confidence that application
+  was correct.
+* Met with clients to discuss and advise on what course to take for
+  re-designing their software.
+* Implemented feature requests, fixing existing bugs in the module
+  while adding the feature, resulting in cleaner, better documented
+  code.
+* Participated in “brainstorming” sessions concerning design/testing
+  details for various project.
 
 Critical Path Software
 ######################
@@ -52,14 +59,15 @@ testing done in a wide range of activities. Online gaming, word
 processing, downloading content, watching HD video both streaming and
 off a BluRay.
 
-Once that project was complete I was put on testing a Skype phone that
-was getting a port of its software for OSX. I wrote tools to generate
-data for the software to import. The data was randomly generated and
-caught several edge cases in the data import process.
-
-My favorite thing I took away from this was learning how to formally
-test sofware, write good bug reports, and work in a important related
-field to where my passion lies.
+* Learned to write very effective bug reports.
+* Wrote and executed test plans, tracking progress and reporting
+  defects.
+* Worked with a team to decide on software milestones and
+  requirements.
+* Set up many different hardware/software configurations for testing.
+* Wrote a tool using C++ to generate data for testing.
+* Assist in delegation of various portions of testing to help train
+  new members of the team prior to product release.
 
 
 Transim Technology
@@ -69,11 +77,16 @@ Intern Software Developer (Dec 05 - Aug 06)
 
 This was my first foray into the world of software development at a
 company. The stack was a large java back end with a PHP layer on top
-with liberal use of Perl as glue. I was tasked with writing
-documentation for various parts of the system, improving upon perl
-scripts by cleaning up the code, adding GUIs so less technical people
-could take over some of the processes, and adding features to the PHP
-front end.
+with liberal use of Perl as glue.
+
+* Cleaned up and maintained several in-house tools written in Perl,
+  Java, and PHP for processing and displaying circuit schematics.
+* Created a GUI for two of the in-house tools so that non-technical
+  staff could assist in processing schematics that needed human
+  interaction.
+* Implemented a secure login system with detailed permission setup.
+* Documented all of the above mentioned work, along with a large
+  portion of a Java based webserver back-end.
 
 I had a great time at this job and this, on top of my passion I
 already had, really sealed the deal as far as my desire to pursue
