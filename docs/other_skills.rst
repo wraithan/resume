@@ -9,10 +9,9 @@ that I wasn't sure where else to put.
 Agile
 #####
 
-I have never worked anywhere the implemented and of the agile
-methodologies fully. But I have done most of the things either
-together or separately included in SCRUM and XP. Here are some of
-those things:
+I have never worked anywhere that implemented any of the agile
+methodologies fully. But I have worked with several of the techniques
+found in Scrum and XP, including:
 
 * Pair programming
 * Continuous integration
