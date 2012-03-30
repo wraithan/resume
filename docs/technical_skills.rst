@@ -32,7 +32,7 @@ Some things I've built outside of web applications:
 Django
 ######
 
-If I am going to write a web app, and probably going to start with
+If I am going to write a web app, I am probably going to start with
 ``django-admin.py startproject <project name>``. I've been using it for
 years now on projects both large and small.
 
