@@ -27,6 +27,6 @@ Public speaking, especially educating a group on a topic is a lot of
 fun to me. I hope to speak at some conferences this year after gaining
 confidence with the following:
 
-* A couple years of speech and debate in high school.
+* A couple years of speech and debate when I was in high school.
 * Numerous talks at the Portland Python Users Group.
 * Slide design and preparation.
