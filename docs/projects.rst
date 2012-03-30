@@ -38,6 +38,18 @@ standard bot. Features (and interesting to implement things) include:
 * Patched various third party libraries to enable features in each of
   the bots.
 
+##################
+GitHub Repo Widget
+##################
+
+`GitHub Repo Widget`_ is a Firefox add-on that I wrote because I was
+on bad internet and wanted faster access to my issue tracker.
+
+* Used the Jetpack Add-on SDK which is written in JavaScript.
+* Wrote my own lib for interacting with GitHub
+* Found and submitted several bug reports against addons.mozilla.org
+  and the add-on SDk.
+
 #######################
 geoloqi-workout-tracker
 #######################
@@ -100,6 +112,7 @@ well!
 .. _GitHub: https://github.com/wraithan
 .. _`Read the Docs`: http://readthedocs.org/
 .. _sphinx: http://sphinx.pocoo.org/
+.. _`GitHub Repo Widget`: https://addons.mozilla.org/en-US/firefox/addon/github-repo-widget/
 .. _geoloqi-workout-tracker: https://github.com/wraithan/geoloqi-workout-tracker
 .. _Geoloqi: http://geoloqi.com/
 .. _geoloqi-python: https://github.com/wraithan/geoloqi-python
