@@ -8,22 +8,24 @@ Greetings Hiring Manager!
 
 I am a Portland, Oregon based software developer with a strong
 background in web development, mostly using Django. Also, in my free
-time I like mixing technologies and playing with some of newer things
+time I like mixing technologies and playing with some newer things
 like Node.js and Clojure. I am applying for these positions for a
 number of reasons, the primary two being:
 
   * Open source is near and dear to me and the opportunity to write
-    open source software all day every day is very in line with my
-    core values.
+    open source software all day every day is in line with my core
+    values.
 
   * Having a wide range of projects to work on is not only fun, but
     keeps me motivated. I am looking forward to diving into the many
     existing, and future projects that Mozilla has to offer.
 
 For the last 3 years I've been writing web applications in Python
-using Django. Including developing large sites that required
-considerable caching and offloading. Also I work to help support and
-maintain Read the Docs, a project Mozilla sponsors to my delight.
+using Django. Which has included developing large sites that required
+considerable caching and offloading using job queues. Also I help
+support and maintain Read the Docs, a project Mozilla sponsors to my
+delight, by helping users getting their docs building as well as
+patches to the code base.
 
 I have used JavaScript as a side effect of being a web developer for
 the last 5-6 years. About 8 months ago when I started using Node.js is
