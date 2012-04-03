@@ -12,7 +12,7 @@ time I like mixing technologies and playing with some newer things
 like Node.js and Clojure. I am applying for these positions for a
 number of reasons, the primary two being:
 
-  * Open source is near and dear to me and the opportunity to write
+  * Open source is near and dear to me, and the opportunity to write
     open source software all day every day is in line with my core
     values.
 
