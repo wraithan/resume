@@ -93,7 +93,7 @@ Fabric
 ######
 
 Fabric_ is a library to make remote system management easier. While
-I've not directly contributed to Fabric, I have ran multiple code
+I've not directly contributed to Fabric, I have run multiple code
 sprints for it.
 
 ######
