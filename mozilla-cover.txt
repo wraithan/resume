@@ -23,7 +23,7 @@ number of reasons, the primary two being:
 For the last 3 years I've been writing web applications in Python
 using Django, which included developing large sites that required
 considerable caching and offloading using job queues. Also I help
-support Read the Docs, a project Mozilla sponsors to my delight, by
+maintain Read the Docs, a project Mozilla sponsors to my delight, by
 helping users getting their docs building as well as patches to the
 code base.
 
