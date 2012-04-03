@@ -21,7 +21,7 @@ number of reasons, the primary two being:
     existing, and future projects that Mozilla has to offer.
 
 For the last 3 years I've been writing web applications in Python
-using Django. Which has included developing large sites that required
+using Django, which included developing large sites that required
 considerable caching and offloading using job queues. Also I help
 support and maintain Read the Docs, a project Mozilla sponsors to my
 delight, by helping users getting their docs building as well as
