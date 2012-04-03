@@ -18,7 +18,7 @@ number of reasons, the primary two being:
 
   * Having a wide range of projects to work on is not only fun, but
     keeps me motivated. I am looking forward to diving into the many
-    existing, and future projects that Mozilla has to offer.
+    existing and future projects that Mozilla has to offer.
 
 For the last 3 years I've been writing web applications in Python
 using Django, which included developing large sites that required
