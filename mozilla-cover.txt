@@ -23,19 +23,17 @@ number of reasons, the primary two being:
 For the last 3 years I've been writing web applications in Python
 using Django, which included developing large sites that required
 considerable caching and offloading using job queues. Also I help
-maintain Read the Docs, a project Mozilla sponsors to my delight, by
-helping users getting their docs building as well as patches to the
-code base.
+maintain Read the Docs, a project Mozilla sponsors, by helping users
+getting their docs building, as well as patches to the code base.
 
 I have used JavaScript as a side effect of being a web developer for
 the last 5-6 years. About 8 months ago when I started using Node.js is
-when I really gained a passion for this language. Using it in a more
-pure form (without the DOM) I learned how elegant it can be. Since
-then I've spent a great deal of time playing with Node.js as well as
-newer web JavaScript technologies.
+when I really gained a passion for this language. Since then I've
+spent a great deal of time playing with Node.js as well as newer web
+JavaScript technologies.
 
 My passion for great, open source, well documented code, as well as my
-passion to keep learning and advancing myself as a developer are some
+drive to keep learning and advancing myself as a developer are some
 of the main reasons I feel I would be a great fit at Mozilla.
 
 For a more complete profile of the projects I work on, jobs I've had,
