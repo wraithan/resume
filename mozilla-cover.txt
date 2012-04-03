@@ -37,7 +37,7 @@ drive to keep learning and advancing myself as a developer are some
 of the main reasons I feel I would be a great fit at Mozilla.
 
 For a more complete profile of the projects I work on, jobs I've had,
-and other details please see my resume.
+and other details, please see my resume.
 
 Traditional Resume: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
 Web-Based Resume: http://wraithan.readthedocs.org/
