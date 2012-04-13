@@ -24,9 +24,16 @@ Public Speaking
 ###############
 
 Public speaking, especially educating a group on a topic is a lot of
-fun to me. I hope to speak at some conferences this year after gaining
-confidence with the following:
+fun to me. Here is a list of places I've spoken or ran sessions
 
-* A couple years of speech and debate when I was in high school.
-* Numerous talks at the Portland Python Users Group.
-* Slide design and preparation.
+* PDX Python (Most recent to oldest)
+  * Building Distributed Systems with Redis and Pub/Sub
+  * django-slow-log
+  * inspect (lightning talk)
+  * dis (lightning talk)
+  * baker (lightning talk)
+  * Using bpython
+* Barcamp Portland 2012
+  * Co-ran a session on building distributed systems had people
+    writing services for ZenIRCBot in the session to show how easy it
+    is.
