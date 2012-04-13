@@ -11,8 +11,8 @@ number of reasons, the primary two being:
   * Urban Airship is doing interesting high scale work that requires
     really thinking out problems at each level in the stack.
 
-  * The problem scope is an interesting hardly explored field that
-    allows for awesome amounts of innovation and creativity.
+  * The problem scope is interesting and hardly explored which allows
+    for awesome amounts of innovation and creativity.
 
 For the last 3 years I've been writing web applications in Python
 using Django, which included developing large sites that required
