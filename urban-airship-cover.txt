@@ -1,0 +1,32 @@
+Python/Django Engineer: http://urbanairship.jobscore.com/job_seeker/jobs/job_posting?job_id=ae4Jm-CKGr4BGSeJe4bk1X&ref=rss
+
+Greetings Hiring Manager!
+
+I am a Portland, Oregon based software developer with a strong
+background in web development, mostly using Django. Also, in my free
+time I like mixing technologies and playing with some newer things
+like Node.js and Clojure. I am applying for these positions for a
+number of reasons, the primary two being:
+
+  * Urban Airship is doing interesting high scale work that requires
+    really thinking out problems at each level in the stack.
+
+  * The problem scope is an interesting hardly explored field that
+    allows for awesome amounts of innovation and creativity.
+
+For the last 3 years I've been writing web applications in Python
+using Django, which included developing large sites that required
+considerable caching and offloading using job queues. Also I help
+support Read the Docs, by helping users getting their docs building,
+as well as patches to the code base.
+
+My favorite side project is my IRC bot which heavily uses pub/sub to
+speak between the core bot and the services that implement
+functionality. I really like it because it can be used as a simple
+example of how to build pub/sub powered distributed systems.
+
+For a more complete profile of the projects I work on, jobs I've had,
+and other details, please see my resume.
+
+Traditional Resume: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
+Web-Based Resume: http://wraithan.readthedocs.org/

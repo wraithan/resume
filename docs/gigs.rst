@@ -5,8 +5,8 @@ Gigs
 My professional work in the software industry over the years. There is
 a bit of time between jobs here and there where I was working
 non-technical jobs and spending a lot of time on personal
-:doc:`projects <\projects>`
-working to develop the skills needed to work in the industry.
+:doc:`projects <\projects>` working to develop the skills needed to
+work in the industry.
 
 
 Aquameta
