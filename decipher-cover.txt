@@ -1,0 +1,36 @@
+Greetings Jamin!
+
+I am a Portland, Oregon based software developer with a strong
+background in web development, mostly using Django. Also, in my free
+time I like mixing technologies and playing with some newer things
+like Node.js and Clojure. I am applying for a number of reasons, the
+primary two being:
+
+  * Decipher is up on the cutting edge of technology. Which is
+    exciting and allows for a lot of fun innovation.
+
+  * Not only are the problems interesting, but they are compounded by
+    the need to scale, which leads to having to really understand
+    choices that are made.
+
+For the last 3 years I've been writing web applications in Python
+using Django, which included developing large sites that required
+considerable caching and offloading using job queues. Also I help
+maintain Read the Docs by helping users getting their docs building,
+as well as patches to the code base.
+
+I have used JavaScript as a side effect of being a web developer for
+the last 5-6 years. About 8 months ago when I started using Node.js is
+when I really gained a passion for this language. Since then I've
+spent a great deal of time playing with Node.js as well as newer web
+JavaScript technologies.
+
+I think I'd be a great fit at Decipher due to my love of exploring new
+technology, years of web development experience, and I am pretty good
+at STFW when I get stuck.
+
+For a more complete profile of the projects I work on, jobs I've had,
+and other details, please see my resume.
+
+Traditional Resume: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
+Web-Based Resume: http://wraithan.readthedocs.org/
