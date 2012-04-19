@@ -1,0 +1,35 @@
+Greetings Hiring Manager!
+
+I am a Portland, Oregon based software developer with a strong
+background in web development, mostly using Django. Also, in my free
+time I like mixing technologies and playing with some newer things
+like Node.js and Clojure. I am applying for a number of reasons, the
+primary two being:
+
+  * Trapit is in a field where large amounts of innovation can
+    happen. Opening the doors to lots of fun and interesting
+    development.
+
+  * Not only are the problems interesting, but they are compounded by
+    the need to scale, which leads to having to really understand
+    choices that are made.
+
+For the last 3 years I've been writing web applications in Python
+using Django, which included developing large sites that required
+considerable caching and offloading using job queues. Also I help
+maintain Read the Docs by helping users getting their docs building,
+as well as patches to the code base.
+
+My favorite project to work on lately has been ZenIRCBot, while one
+might write this off as project that is overly simple. I've been using
+it to experiment with distributed systems and using pub/sub. Which has
+lead me to rethinking how I architect systems.
+
+Overall, I think I'd be a great fit at Trapit due to my years of back
+end web development and love of experimenting with newer technologies.
+
+For a more complete profile of the projects I work on, jobs I've had,
+and other details, please see my resume.
+
+Traditional Resume: https://github.com/wraithan/resume/raw/master/scannable_resume.pdf
+Web-Based Resume: http://wraithan.readthedocs.org/
