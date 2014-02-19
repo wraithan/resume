@@ -8,16 +8,34 @@ non-technical jobs and spending a lot of time on personal
 :doc:`projects <\projects>` working to develop the skills needed to
 work in the industry.
 
+Mozilla
+#######
+Web Developer (May '12 - Sept '13)
+**********************************
+
+This was my first time working in truly high scale development, both in
+traffic and in team size. It was also my first gig working with a purely
+remote team distributed across many timezones.
+
+* Started out working on addons.mozilla.org, reworking the use of redis as
+  a part of the caching solution.
+* Worked on security critical sections of the site including the blocklist
+  that Firefox uses to shut down bad addons and extensions in the wild.
+* Was moved over to working on marketplace.firefox.com as part of the payments
+  team.
+* Integrated with multiple payment providers and built the security pin portion
+  of the site.
+* Was involved in many of the architecture choices such as revamping
+  deployment, moving to smaller services, and caching.
 
 Aquameta
 ########
 Senior Software Developer (Mar '10 - Feb '12)
 *********************************************
 
-This was my most recent job, I loved this company and learned a great
-deal while I was working there. It is where I cut my teeth on Django
-apps that needed more than just some more hardware thrown at them to
-scale.
+I loved this company and learned a great deal while I was working there.
+It is where I cut my teeth on Django apps that needed more than just some
+more hardware thrown at them to scale.
 
 * Was part of a team that implemented, maintained, and extended a
   large Django application that powered 3 sites.

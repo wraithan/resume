@@ -6,6 +6,7 @@ The vast majority of my projects are open source and can be found on
 GitHub_. This is a list of projects I've written or contributed to in
 some way. I love discussing them, so feel free to ask me about them.
 
+
 #############
 Read the Docs
 #############
@@ -19,9 +20,11 @@ push your docs are automatically rebuilt.
 
 What I did for the project:
 
+* Core developer/maintainer on the project.
 * Wrote better integration with GitHub, including tests.
 * Made it possible for multiple people be admins on a project.
 * Took part in architecture discussions with the maintainer.
+* Took over maintainship for 4 months while the previous maintainer was away.
 
 #########
 ZenIRCBot
@@ -38,63 +41,34 @@ standard bot. Features (and interesting to implement things) include:
 * Patched various third party libraries to enable features in each of
   the bots.
 
-##################
-GitHub Repo Widget
-##################
+#######
+PDXNode
+#######
 
-`GitHub Repo Widget`_ is a Firefox add-on that I wrote because I was
-on bad internet and wanted faster access to my issue tracker.
+This is less a software project and more a project that revolves around,
+software. I'm co-organizer for the group, which means planning meetings,
+getting speakers, running workshops, and more.
 
-* Used the Jetpack Add-on SDK which is written in JavaScript.
-* Wrote my own lib for interacting with GitHub
-* Found and submitted several bug reports against addons.mozilla.org
-  and the add-on SDk.
+* Once a month software hack night that I mentor at.
+* Once a month hardware hack night which I am core mentor for.
+* Once a month presentation night, some months I fill in if we can't find a
+  speaker.
+* Periodic workshops, some I am the main organizer, others I'm just a mentor.
 
-#######################
-geoloqi-workout-tracker
-#######################
+########
+Hardware
+########
 
-geoloqi-workout-tracker_ is my stab at building something on the
-Geoloqi_ platform. Interesting bits of this:
+Since July or so of 2013, I've become a hardware hacker to complement my
+software development skills. It is really great being able to interact with
+the real world, not just via a keyboard or mouse or something.
 
-* Register new accounts and login using Geoloqi's OAuth2 service.
-* Associate accounts with DailyMile using OAuth2.
-
-#############
-webhook-relay
-#############
-
-webhook-relay_ is a service I was architecting to fill a hole in
-gluing webhooks together as well as making webhooks more robust.
-
-* Forward and multiplex incoming webhooks using celery.
-
-################
-aichallenge-ants
-################
-
-This was `my entry`_ into aichallenge_ for the ants competition.
-
-* Wrote a custom weight dispersion algorithm.
-* Used PyPy.
-
-#####
-speck
-#####
-
-speck_ command line interface to `letsfreckle`_.
-
-* Used baker_ to do the command line argument and function parsing
-  easier.
-* Interacted with an external REST API.
-
-######
-Fabric
-######
-
-Fabric_ is a library to make remote system management easier. While
-I've not directly contributed to Fabric, I have run multiple code
-sprints for it.
+* Built a monitoring system for my house, temp, light, humidity and cat door.
+* Built a media keyboard (play/pause/back/forward/volume) where I had to patch
+  the firmware that comes with the chip to better adhear to the USB HID spec.
+* In the process of building a bike computer with GPS, heart rate, cadence and
+  a light system.
+* In the process of building a monitoring system for my smoker.
 
 ######
 Resume
@@ -102,8 +76,7 @@ Resume
 
 That would be this_. I have it up on GitHub because it is easier to
 maintain there. It is written in ReStructured Text using sphinx so I
-can host it on Read the Docs. This way I get a clean looking resume
-that I can export as a PDF, or just directly link to.
+can host it on Read the Docs.
 
 I was inspired by another user who has his resume_ on Read The Docs as
 well!
@@ -112,18 +85,6 @@ well!
 .. _GitHub: https://github.com/wraithan
 .. _`Read the Docs`: http://readthedocs.org/
 .. _sphinx: http://sphinx.pocoo.org/
-.. _`GitHub Repo Widget`: https://addons.mozilla.org/en-US/firefox/addon/github-repo-widget/
-.. _geoloqi-workout-tracker: https://github.com/wraithan/geoloqi-workout-tracker
-.. _Geoloqi: http://geoloqi.com/
-.. _geoloqi-python: https://github.com/wraithan/geoloqi-python
-.. _ZenIRCBot: https://github.com/wraithan/zenircbot
-.. _node-irc: https://github.com/martynsmith/node-irc
-.. _webhook-relay: https://github.com/wraithan/webhook-relay
+.. _ZenIRCBot: https://github.com/zenirc/zenircbot
 .. _this: https://github.com/wraithan/resume
 .. _resume: http://resume.readthedocs.org/
-.. _aichallenge: http://aichallenge.org/
-.. _letsfreckle: http://letfreckle.com/
-.. _baker: http://pypi.python.org/pypi/Baker/
-.. _speck: https://github.com/wraithan/speck
-.. _`my entry`: https://github.com/wraithan/aichallenge-ants
-.. _Fabric: http://fabfile.org/

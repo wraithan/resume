@@ -8,7 +8,8 @@ file formats, to window managers, to IRC bots, to web sites.
 
 For a concise list of languages and time spent in them:
 
-* 5+ years experience with Python, JavaScript, and SQL.
+* 6+ years experience with Python and SQL.
+* 4+ years experiency with Javascript (3 of which were focused on Node)
 * 2+ years experience with C++, Perl, PHP, Java, and Lua.
 * 1+ years experience with Haskell, C, and C#.
 * Have played with many others including Common Lisp, Ruby, Go, and Clojure
@@ -123,9 +124,8 @@ I've only built one but plan on building more.
 Node
 ####
 
-Node is a recent addition to my bag of tricks. It sparked the fire in
-me to really start enjoying JavaScript. I have been using it to build
-out co-operative micro-services such as:
+It sparked the fire in me to really start enjoying JavaScript. I have been
+using it to build out co-operative micro-services such as:
 
 * An IRC bot.
 * A layer for receiving web hooks.
@@ -140,3 +140,12 @@ I am commonly found teaching people how to use git, recover from
 situations they and not sure how to get out of, and giving my opinions
 on best practices based on experience and discussion with others that
 have passion about how to use their version control system.
+
+###
+C++
+###
+
+In working with hardware I've had to relearn and get better at C++. It was my
+first language, so coming back to it after spending years doing other
+development is quite a bit of fun. Most of the development has been for arduino
+compatible chips, communicating with the outside world using serial.
