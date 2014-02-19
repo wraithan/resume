@@ -13,7 +13,7 @@ The Resume of Chris McDonald, A Backend Developer
 
 Hi there, I'm Chris McDonald but most people call me `Wraithan
 <http://wraithan.net/>`_. This is my web resume. If you are looking
-for a more concise one, you can find that `here
+for a more traditional one, you can find that `here
 <https://github.com/wraithan/resume/blob/master/scannable_resume.pdf?raw=true>`_.
 
 Who is this guy?
@@ -23,15 +23,14 @@ Who is this guy?
 * A native of Portland, OR, USA. (And is not looking to relocate)
 * A nerd, cyclist, and metal head.
 
-But more than that I've been hacking in Python for 4-5 years at this
-point, and was primarily using it for web development and devops
-purposes, 3 of those years I was using Django.
+I am a python and javascript hacker. 6 years of Python development experience, 
+most of which was web development. 3 years of using node for projects as well 
+as being an organizer for PDXNode, a local node.js group, for the last few
+months.
 
-I commonly am teaching myself new languages and frameworks in my spare
-time, most recently I began using Clojure which I find to be a lot of
-fun. I recently heard in one of the keynotes at PyCon this wonderful
-blurb: "When programming stops being fun, I'll stop doing it." and I
-think it describes how I feel about it as well.
+In my spare time, I teach programming, play with hardware, and hack on side
+projects. I subscribe to a statement I heard in one of the keynotes at PyCon
+2012: "When programming stops being fun, I'll stop doing it."
 
 #################
 Table of Contents
