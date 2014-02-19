@@ -44,3 +44,4 @@ Table of Contents
     other_skills
     projects
     gigs
+    contact
