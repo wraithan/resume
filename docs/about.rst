@@ -2,37 +2,32 @@
 About Me
 ========
 
-I am a social hacker from Portland, OR, USA. A large number of my
-evenings are spent hanging out with fellow programmers at cafes or
-bars. Commonly discussing our latest and greatest projects over some
-nachos.
+I'm a software developer from Portland, OR. I spend most of my programming time
+in Node.js and Rust. I spent a significant chunk of my past working in Python,
+so much so I have a large tattoo of one on my left shoulder! I enjoy exploring
+programming language and chatting about them.
 
-#############
-Why do I hack
-#############
+##########
+Motivators
+##########
 
-Repetition is one of the banes of my existence. The first time I do
-something it is new and interesting. The second time I get a feel for
-what parts should, could, and probably will be automated. The third
-time I am definitely looking for and/or writing tools to solve this 
-problem for me.
+Making code as bullet proof as possible. I've found few things in software give
+me the same sense of satisfaction as knowing it is extremely hard to crash my
+code. Rigorously going through code and making sure all error cases are
+accounted for in code and writing tests to validate it is how I can comfortably
+sleep at night with my code running on critical servers.
 
-There is a lot of great software out there, functionality wise if not
-code beauty wise. I find over time instead of building my own unique
-projects that provide something that stands on its own, I am gluing
-services together in order to make the web a more coherent place.
+Next is probably making code more performant. Whether this is alogrithm work,
+caching, query tuning, or any other optimization work. Profiling something,
+changing some code, and seeing it get faster always puts a smile on my face.
 
-Finally there is the wonderful micro high that comes along with
-solving a problem. It is even better if it was a hard problem or you
-have an elegant solution. The best is a really hard problem, really
-elegant solution, and being able to show it off to my friends because
-it is open source.
+Putting those together in some eloquent solution is what I always strive for in
+my projects. I just enjoy cleaning up technical debt. Usually this means going
+into a system that as evolved for a while and needs to be distilled into clean
+concepts again. Taking a messy system and bringing it to order is delightful.
 
-###########
-Personality
-###########
-
-* Programming Polyglot
-* IRC is one of the first things I reconnect to when I open my laptop.
-* Long time Linux nerd (I used slackware when it was "cool")
-* Cyclist, both commute and sport.
+Finally I love teaching folks, whether it is a 1:1 situation or a meetup full of
+people. When I still getting started in software, the folks who took the time to
+teach me had a huge impact on where I ended up today. I am always trying to pay
+it back to the community, whether I'm organizing meetups, mentoring friends or
+helping folks out on IRC.

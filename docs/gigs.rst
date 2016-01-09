@@ -8,6 +8,34 @@ non-technical jobs and spending a lot of time on personal
 :doc:`projects <\projects>` working to develop the skills needed to
 work in the industry.
 
+New Relic
+#########
+Node.js Agent Engineer (Apr '14 - Present)
+********************************************
+
+My first full time gig working in Node.js. So far this has been an amazing
+experience. I've been able to connect with so much of the Node.js community via
+my work for New Relic. The Node.js Agent is the library New Relic customers
+install in their Node.js applications which monitors it and sends data back to
+New Relic servers for analysis.
+
+* Maintained a weekly release cadance for over 52 weeks in a row. Allowing the
+  agent to respond quickly to the needs of our users.
+* Ran a series of support training session giving our support engineers much
+  deeper understanding of how Node and our agent works. Resulting is a large
+  reduction in support escalations.
+* Learned about the deep internals of Node.js and v8 in order to make our agent
+  more accurate and performant.
+
+Contracting
+###########
+Web Developer (Oct '13 - Apr '14)
+*********************************
+
+I took on a few small contracts in this time, mostly though I spent my time
+learning to be a better Node.js engineer as I wanted to take my career toward
+more asynchronous progrmaming.
+
 Mozilla
 #######
 Web Developer (May '12 - Sept '13)

@@ -6,6 +6,31 @@ The vast majority of my projects are open source and can be found on
 GitHub_. This is a list of projects I've written or contributed to in
 some way. I love discussing them, so feel free to ask me about them.
 
+##########
+cargo-bump
+##########
+
+`cargo-bump`_ is a command that increases the version number of the rust project
+you are currently in. It is meant to be a Rust version of npm version.
+
+* A fun exercise in gluing libraries together in Rust.
+* An interesting opportunity to work with others in the community who are
+  writing Rust libraries.
+* Started as a challenge to myself to build a Rust project from scratch in a
+  night.
+
+################
+WeeChat Notifier
+################
+
+`weechat-notifier`_ is a daemon written in Rust meant to connect to a running
+WeeChat_ session on another machine and provide notifications on the local
+machine. I am writing it mostly as an experiment in writing a parser, client
+library, and a daemon in Rust.
+
+* Learned a valuable lesson about how writing a parser in a static language like
+  you would in a dynamic language results in cumbersome code.
+* Had a lot of fun experimenting with different testing styles.
 
 #############
 Read the Docs
@@ -20,11 +45,11 @@ push your docs are automatically rebuilt.
 
 What I did for the project:
 
-* Core developer/maintainer on the project.
+* Core developer/maintainer on the project for a couple years.
 * Wrote better integration with GitHub, including tests.
 * Made it possible for multiple people be admins on a project.
 * Took part in architecture discussions with the maintainer.
-* Took over maintainship for 4 months while the previous maintainer was away.
+* Took over maintainership for 4 months while the previous maintainer was away.
 
 #########
 ZenIRCBot
@@ -46,14 +71,14 @@ PDXNode
 #######
 
 This is less a software project and more a project that revolves around,
-software. I'm co-organizer for the group, which means planning meetings,
-getting speakers, running workshops, and more.
+software. I was a co-organizer for the group for years, which meant planning
+meetings, getting speakers, running workshops, and more.
 
-* Once a month software hack night that I mentor at.
-* Once a month hardware hack night which I am core mentor for.
-* Once a month presentation night, some months I fill in if we can't find a
+* Once a month software hack night that I mentored at.
+* Once a month hardware hack night which I was a core mentor for.
+* Once a month presentation night, some months I filled in if we couldn't find a
   speaker.
-* Periodic workshops, some I am the main organizer, others I'm just a mentor.
+* Periodic workshops, some I was the main organizer, others I was just a mentor.
 
 ########
 Hardware
@@ -83,6 +108,9 @@ well!
 
 
 .. _GitHub: https://github.com/wraithan
+.. _`cargo-bump`: https://github.com/wraithan/cargo-bump
+.. _`weechat-notifier`: https://github.com/weechat-notifier
+.. _WeeChat: https://weechat.org
 .. _`Read the Docs`: http://readthedocs.org/
 .. _sphinx: http://sphinx.pocoo.org/
 .. _ZenIRCBot: https://github.com/zenirc/zenircbot

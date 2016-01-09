@@ -6,19 +6,50 @@ This is a list of my stronger technical skills. I've played with
 writing things ranging from graphics engines, to decoding game save
 file formats, to window managers, to IRC bots, to web sites.
 
-For a concise list of languages and time spent in them:
+Language Skills:
 
-* 6+ years experience with Python and SQL.
-* 4+ years experiency with Javascript (3 of which were focused on Node)
-* 2+ years experience with C++, Perl, PHP, Java, and Lua.
-* 1+ years experience with Haskell, C, and C#.
-* Have played with many others including Common Lisp, Ruby, Go, and Clojure
+* Deep understanding of Node.js.
+* Have worked with Python, SQL in the recent past.
+* Have played with Rust quite a bit.
+* Have some work experience in the further past in PHP, Perl, Java, C++
+* Others I've played with in some capacity or another: Lua, Haskell, Common
+  Lisp, Clojure, and Go
+
+#######
+Node.js
+#######
+
+It sparked the fire in me to really start enjoying JavaScript. I have used it to
+build out microservices, commandline utilities, libraries, and for work.
+
+* Have a deep understanding of performance in Node.js and V8.
+* Wrote instrumentation for a number of database drivers and frameworks,
+  requiring knowledge of the library internals.
+* Wrote a benchmarking suite as a series of microservices that can run
+  benchmarking and load testing jobs for days or weeks.
+* Participated in various contributor discussions affecting the direction of
+  Node.js for tracing and release cycle.
+* Have played in lots of online AI games using JS.
+
+####
+Rust
+####
+
+This programming language is easily my favorite at the moment. The ownership
+system and the type system both feel like a great advancement over other modern
+languages. It has really reawaked my desire to work at the native layer instead
+of in VMs.
+
+* Primary language I use on the weekends for learning and small projects.
+* Spent time reimplementing past Node.js AI bots of mine in Rust and seeing the
+  differences in algorithms.
+* Language of choice for code challenges like `Advent of Code <http://adventofcode.com/>`_
 
 ######
 Python
 ######
 
-I've spent the last 5 years programming in Python, 3 of that was
+I've spent about 6 years programming in Python, 4 of that was
 professional. Most of my experience with Python is centered around
 writing Django applications.
 
@@ -29,9 +60,9 @@ Some things I've built outside of web applications:
 * Feed aggregators
 * Plugins and extensions for various tools that embed Python.
 
-######
+------
 Django
-######
+------
 
 If I am going to write a web app, I am probably going to start with
 ``django-admin.py startproject <project name>``. I've been using it for
@@ -45,9 +76,9 @@ Here are some highlights of from Django projects I've worked on.
 * Upgrading between multiple Django versions.
 * Numerous community and small business sites.
 
-######
+------
 Celery
-######
+------
 
 I use this when I need to offload tasks in Django based sites. Here
 are a few things I have done with it:
@@ -58,9 +89,9 @@ are a few things I have done with it:
 * Divided tasks into separated queues so the Celery daemon could be
   shared to multiple servers.
 
-######
+------
 Fabric
-######
+------
 
 This tool has saved me hours, if not days of my life.
 
@@ -91,46 +122,6 @@ open source, and I've come to rely on it anytime I need a database.
 * Used pgbouncer to do connection pooling to decrease latency.
 * Have scaled to tables with millions of rows.
 
-##########
-JavaScript
-##########
-
-I've used it for many years now. Mostly doing front end work on the
-web. But more recently I've also done things like building a Firefox
-add-on, and many little micro-services.
-
-######
-jQuery
-######
-
-When I am doing JavaScript for the sake of front end development I
-tend to lean on this library quite a bit for its selectors and other
-niceties.
-
-* Built many dynamic front ends using AJAX
-* Built a Firefox Add-on that uses jQuery to build and modify most of
-  the DOM.
-
-##################
-Firefox Add-on SDK
-##################
-I've only built one but plan on building more.
-
-* An add-on for listing GitHub repos and quick links for them (code,
-  issues, wiki, etc)
-
-
-####
-Node
-####
-
-It sparked the fire in me to really start enjoying JavaScript. I have been
-using it to build out co-operative micro-services such as:
-
-* An IRC bot.
-* A layer for receiving web hooks.
-* A GitHub post receive hook processor.
-* Process management for all of these micro-services.
 
 ###
 Git
@@ -149,3 +140,7 @@ In working with hardware I've had to relearn and get better at C++. It was my
 first language, so coming back to it after spending years doing other
 development is quite a bit of fun. Most of the development has been for arduino
 compatible chips, communicating with the outside world using serial.
+
+I also have had to read a lot of C++ while inspecting the internals of Node.js
+and V8, developing my ability to read other people's C++ in complex
+environments.
