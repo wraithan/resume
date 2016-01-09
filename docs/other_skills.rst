@@ -9,9 +9,9 @@ that I wasn't sure where else to put.
 Agile
 #####
 
-I have never worked anywhere that implemented any of the agile
-methodologies fully. But I have worked with several of the techniques
-found in Scrum and XP, including:
+I have never worked anywhere that implemented any of the agile methodologies
+fully. But I have worked with several of the techniques found in Scrum and XP,
+including:
 
 * Pair programming
 * Continuous integration
@@ -25,6 +25,16 @@ Public Speaking
 
 Public speaking, especially educating a group on a topic is a lot of
 fun to me. Here is a list of places I've spoken or ran sessions
+
+* I was the co-organizer of PDX Node for a couple years.
+
+  * I spoke on a number of topics from library introductions, to code
+    refactoring, to hardware hacking.
+  * Ran the hack night and hardware hacking sessions.
+  * Helped put together and mentor at multiple NodeSchool sessions.
+
+* I gave my first conference talk at NodePDX. It was on using Redis Pub/Sub in
+  node.js.
 
 * PDX Python (Most recent to oldest)
 
