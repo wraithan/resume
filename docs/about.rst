@@ -14,10 +14,10 @@ Motivators
 Making code as bullet proof as possible. I've found few things in software give
 me the same sense of satisfaction as knowing it is extremely hard to crash my
 code. Rigorously going through code and making sure all error cases are
-accounted for in code and writing tests to validate it is how I can comfortably
-sleep at night with my code running on critical servers.
+accounted for and writing tests to validate it is how I can comfortably sleep at
+night with my code running on critical servers.
 
-Next is probably making code more performant. Whether this is alogrithm work,
+Next is probably making code more performant. Whether this is algorithm work,
 caching, query tuning, or any other optimization work. Profiling something,
 changing some code, and seeing it get faster always puts a smile on my face.
 

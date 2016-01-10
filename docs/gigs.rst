@@ -19,7 +19,7 @@ my work for New Relic. The Node.js Agent is the library New Relic customers
 install in their Node.js applications which monitors it and sends data back to
 New Relic servers for analysis.
 
-* Maintained a weekly release cadance for over 52 weeks in a row. Allowing the
+* Maintained a weekly release cadence for over 52 weeks in a row. Allowing the
   agent to respond quickly to the needs of our users.
 * Ran a series of support training session giving our support engineers much
   deeper understanding of how Node and our agent works. Resulting is a large
@@ -34,7 +34,7 @@ Web Developer (Oct '13 - Apr '14)
 
 I took on a few small contracts in this time, mostly though I spent my time
 learning to be a better Node.js engineer as I wanted to take my career toward
-more asynchronous progrmaming.
+more asynchronous programming.
 
 Mozilla
 #######
@@ -43,9 +43,9 @@ Web Developer (May '12 - Sept '13)
 
 This was my first time working in truly high scale development, both in
 traffic and in team size. It was also my first gig working with a purely
-remote team distributed across many timezones.
+remote team distributed across many time zones.
 
-* Started out working on addons.mozilla.org, reworking the use of redis as
+* Started out working on addons.mozilla.org, reworking the use of Redis as
   a part of the caching solution.
 * Worked on security critical sections of the site including the blocklist
   that Firefox uses to shut down bad addons and extensions in the wild.
@@ -104,7 +104,7 @@ QA Tester (May '08 - Aug '08)
 
 Here I worked in the QA department testing software and hardware. The
 primary project I was hired for were 2 lines of computers that a
-company was going to release and they wanted some independant stress
+company was going to release and they wanted some independent stress
 testing done in a wide range of activities. Online gaming, word
 processing, downloading content, watching HD video both streaming and
 off a Blu-Ray.

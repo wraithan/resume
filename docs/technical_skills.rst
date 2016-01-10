@@ -20,12 +20,12 @@ Node.js
 #######
 
 It sparked the fire in me to really start enjoying JavaScript. I have used it to
-build out microservices, commandline utilities, libraries, and for work.
+build out micro services, command line utilities, libraries, and for work.
 
 * Have a deep understanding of performance in Node.js and V8.
 * Wrote instrumentation for a number of database drivers and frameworks,
   requiring knowledge of the library internals.
-* Wrote a benchmarking suite as a series of microservices that can run
+* Wrote a benchmarking suite as a series of micro services that can run
   benchmarking and load testing jobs for days or weeks.
 * Participated in various contributor discussions affecting the direction of
   Node.js for tracing and release cycle.
@@ -37,7 +37,7 @@ Rust
 
 This programming language is easily my favorite at the moment. The ownership
 system and the type system both feel like a great advancement over other modern
-languages. It has really reawaked my desire to work at the native layer instead
+languages. It has really reawakened my desire to work at the native layer instead
 of in VMs.
 
 * Primary language I use on the weekends for learning and small projects.
@@ -64,9 +64,9 @@ Some things I've built outside of web applications:
 Django
 ------
 
-If I am going to write a web app, I am probably going to start with
-``django-admin.py startproject <project name>``. I've been using it for
-years now on projects both large and small.
+A couple years ago If I was going to write a web app, I would probably start
+with ``django-admin.py startproject <project name>``. I used it for years on
+projects both large and small.
 
 Here are some highlights of from Django projects I've worked on.
 
