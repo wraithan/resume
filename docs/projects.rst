@@ -6,11 +6,49 @@ The vast majority of my projects are open source and can be found on
 GitHub_. This is a list of projects I've written or contributed to in
 some way. I love discussing them, so feel free to ask me about them.
 
+##############
+Message Broker
+##############
+
+`Message Broker`_ is an ongoing project where I'm attempting to write an enterprise
+worthy message broker akin to RabbitMQ, Kafka, or Redis' Pub/Sub layer. I plan on
+open sourcing once I get it to a usable state, but chunks of the code have been posted
+to my blog.
+
+* Building on top of Tokio which is becoming a community standard for building services,
+  protocols, and as a layer to manage async machinery.
+* I'm also writing a best practices book to go along with it, as an exercise in that
+  type of writing. This way I design the message broker in a usable way that encourages
+  good system architecture.
+
+########
+md-to-wp
+########
+
+`md-to-wp`_ is a small rust project I coded up in an afternoon to convert
+markdown to a WordPress friendly HTML. This includes colorizing my code examples.
+You can see it in action `this blog post`_.
+
+###############
+i-can-manage-it 
+###############
+
+`i-can-manage-it`_ is a game and game engine I started writting to get used to
+the world of game development. I haven't open sourced it yet, but I did do some
+writing about it as I learned and encounted problems.
+
+* First Rust project where performance really mattered, so I got to spend some
+  time optimizing.
+* Had to learn and relearn linear algebra in order to do the coordinate transforms
+  to do camera effects and object manipulation I wanted.
+* Wrote a debug socket server that I hooked up to an Electron project that displayed
+  stats about my running game engine.
+
 ##########
 cargo-bump
 ##########
 
-`cargo-bump`_ is a command that increases the version number of the rust project
+`cargo-bump`_ is a command that increases the version number of the Rust project
 you are currently in. It is meant to be a Rust version of npm version.
 
 * A fun exercise in gluing libraries together in Rust.
@@ -108,6 +146,7 @@ well!
 
 
 .. _GitHub: https://github.com/wraithan
+.. _`i-can-manage-it`: https://wraithan.net/2016/09/11/started-writing-a-game/
 .. _`cargo-bump`: https://github.com/wraithan/cargo-bump
 .. _`weechat-notifier`: https://github.com/weechat-notifier
 .. _WeeChat: https://weechat.org
@@ -116,3 +155,6 @@ well!
 .. _ZenIRCBot: https://github.com/zenirc/zenircbot
 .. _this: https://github.com/wraithan/resume
 .. _resume: http://resume.readthedocs.org/
+.. _`md-to-wp`: https://github.com/wraithan/md-to-wp
+.. _`this blog post`: https://wraithan.net/2017/06/15/message-broker-channel-naming/
+.. _`Message Broker`: https://wraithan.net/tag/message-broker/

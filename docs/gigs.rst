@@ -8,16 +8,38 @@ non-technical jobs and spending a lot of time on personal
 :doc:`projects <\projects>` working to develop the skills needed to
 work in the industry.
 
+Sparkypants Studios
+###################
+Senior Backend Enginer (Feb '16 - Jun '17)
+******************************************
+
+I got an opportunity to work on a video game, which had always been a dream of
+mine. As backend engineers we built the systems that stored data, matchmaking,
+login, and provided C++ libraries for the client and game server engineers to use.
+We used a microservice architecture written in Node.js, Python, SQL, and C++. Heavily
+using RabbitMQ as our message bus and MySQL as our database.
+
+* Redesigned the matchmaking backend to enable a confirm step before creating the game,
+  while refactoring all data collection from the database to be just in time instead of
+  up front eliminating a large class of bugs and AFK users.
+* Built an automated deployment system for our staging environment, with fully automatic
+  registration and decommissioning of game servers on top of systemd and ansible.
+* Built and designed a full consent friend system to systemically prevent abuse where
+  possible.
+* Refactored a C++ wrapper around libcurl to standardize header parsing and error
+  propagation, preventing accidentally ignored errors and making HTTP access code
+  easier to write.
+
 New Relic
 #########
-Node.js Agent Engineer (Apr '14 - Present)
-********************************************
+Node.js Agent Engineer (Apr '14 - Feb '16)
+******************************************
 
-My first full time gig working in Node.js. So far this has been an amazing
-experience. I've been able to connect with so much of the Node.js community via
-my work for New Relic. The Node.js Agent is the library New Relic customers
-install in their Node.js applications which monitors it and sends data back to
-New Relic servers for analysis.
+My first full time gig working in Node.js, and it was an amazing experience. 
+I've was able to connect with so much of the Node.js community via my work for
+New Relic. The Node.js Agent is the library New Relic customers install in
+their Node.js applications which monitors it and sends data back to New Relic
+servers for analysis.
 
 * Maintained a weekly release cadence for over 52 weeks in a row. Allowing the
   agent to respond quickly to the needs of our users.
@@ -26,6 +48,8 @@ New Relic servers for analysis.
   reduction in support escalations.
 * Learned about the deep internals of Node.js and v8 in order to make our agent
   more accurate and performant.
+* Wrote and designed systems that accounted for as many error cases as possible
+  because an error in the agent could crash a user's system.
 
 Contracting
 ###########

@@ -5,7 +5,6 @@ Contact
 So, I've intrigued you enough that you want to contact me.
 
 * email: xwraithanx@gmail.com
-* irc: Wraithan on irc.freenode.net
 * twitter: @wraithan
 
 If you want my phone number or other contact information, use one of the above

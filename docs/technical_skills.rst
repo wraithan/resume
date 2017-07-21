@@ -9,9 +9,9 @@ file formats, to window managers, to IRC bots, to web sites.
 Language Skills:
 
 * Deep understanding of Node.js.
-* Have worked with Python, SQL in the recent past.
+* Have worked with Python, C++, and SQL in the recent past.
 * Have played with Rust quite a bit.
-* Have some work experience in the further past in PHP, Perl, Java, C++
+* Have some work experience in the further past in PHP, Perl, and Java
 * Others I've played with in some capacity or another: Lua, Haskell, Common
   Lisp, Clojure, and Go
 
@@ -110,6 +110,7 @@ pub/sub. I have use it for:
 * Django session storage.
 * Celery queue backend (including connection pooling)
 * Micro services based IRC bot using Redis' pub/sub as a transport.
+* Chat system for a video game
 
 ##########
 PostgreSQL
@@ -122,6 +123,14 @@ open source, and I've come to rely on it anytime I need a database.
 * Used pgbouncer to do connection pooling to decrease latency.
 * Have scaled to tables with millions of rows.
 
+#####
+MySQL
+#####
+
+Used this in a pretty large database (150+ tables) which required a deeper
+understanding of relational algebra than I had previously. Learned many of the
+quirks around time handling and strict mode SQL as I wrote queries to gather user
+and game state from the database.
 
 ###
 Git
@@ -135,6 +144,9 @@ have passion about how to use their version control system.
 ###
 C++
 ###
+
+Working on Dropzone at Sparkypants meant developing async C++ libraries for use by
+the game client and game server to communicate to the backend services.
 
 In working with hardware I've had to relearn and get better at C++. It was my
 first language, so coming back to it after spending years doing other

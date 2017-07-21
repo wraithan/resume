@@ -12,16 +12,15 @@ The Resume of Wraithan, A Backend Developer
     Open Source Bridge 2011.
 
 Hi there, my legal name is Chris McDonald but I prefer `Wraithan
-<http://wraithan.net/>`_. This is my web resume. If you are looking for a more
-traditional one (may be out of date), you can find that `here
-<https://github.com/wraithan/resume/blob/master/scannable_resume.pdf?raw=true>`_.
+<http://wraithan.net/>`_. This is my web resume. I'm looking for a job, but I'm
+only interested in Portland, OR based jobs or jobs where I could be remote from here.
 
 Who is he?
 
 * A polyglot who enjoys the commonalities and contrasts of each
   programming language and platform.
 * A native of Portland, OR, USA. (And is not looking to relocate)
-* A performance and stability nut.
+* Loves tuning systems for performance and stability.
 * A nerd, cyclist, and metal head.
 
 I am a Node.js and Rust hacker. Though I have years of Python development
