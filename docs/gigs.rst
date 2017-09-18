@@ -36,7 +36,7 @@ Node.js Agent Engineer (Apr '14 - Feb '16)
 ******************************************
 
 My first full time gig working in Node.js, and it was an amazing experience. 
-I've was able to connect with so much of the Node.js community via my work for
+I was able to connect with so much of the Node.js community via my work for
 New Relic. The Node.js Agent is the library New Relic customers install in
 their Node.js applications which monitors it and sends data back to New Relic
 servers for analysis.
