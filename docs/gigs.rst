@@ -8,6 +8,29 @@ non-technical jobs and spending a lot of time on personal
 :doc:`projects <\projects>` working to develop the skills needed to
 work in the industry.
 
+Cedexis / Citrix
+################
+Senior Engineer (Oct '17 - Current)
+***********************************
+
+With a background doing telemetry in JavaScript from working at New Relic, I
+took an opportunity to work on a browser based RUM client and related
+infrastructure. What made this job particularly interesting to me was having
+telemetry data used for more than just alerting or performance analysis, it was
+fed into intelligent DNS server that used it to make routing decisions.
+
+* Redesigned and built Dynamic Content benchmarks to include a cryptographic
+  signature, giving us the first verified measurement type, enusing no caching
+  happened that would invalidate the measurement.
+* Built out the canary deployment system for the RUM client, allowing us to roll
+  our releases or experiments out in 3-5% increments. This enabled us to try out
+  changes to benchmarks and fixes for particular browsers without risking our
+  whole corpus of data.
+* Provided deep analysis of benchmarks before and after major changes like
+  shifting from HTTP to HTTPS or changing which browser API is used to gather the
+  data. Giving us confidence and ability to notify customers if they'll see a step
+  function in their data.
+
 Sparkypants Studios
 ###################
 Senior Backend Enginer (Feb '16 - Jun '17)

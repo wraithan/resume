@@ -44,6 +44,7 @@ of in VMs.
 * Spent time reimplementing past Node.js AI bots of mine in Rust and seeing the
   differences in algorithms.
 * Language of choice for code challenges like `Advent of Code <http://adventofcode.com/>`_
+* Past few years of personal game development have been using this language.
 
 ######
 Python
@@ -156,3 +157,12 @@ compatible chips, communicating with the outside world using serial.
 I also have had to read a lot of C++ while inspecting the internals of Node.js
 and V8, developing my ability to read other people's C++ in complex
 environments.
+
+
+########
+BigQuery
+########
+
+Telemetry data at Cedexis/Citrix was shipped to this database, most of my work
+with this database was finding was to effectively query many GB to TB of data
+and get out statistically relevant insights out.

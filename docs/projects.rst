@@ -6,14 +6,29 @@ The vast majority of my projects are open source and can be found on
 GitHub_. This is a list of projects I've written or contributed to in
 some way. I love discussing them, so feel free to ask me about them.
 
+#################
+Shader Playground
+#################
+
+`shader-playground`_ is a learning project of mine, the code isn't the prettiest
+but has given me a lot of understanding of the shader pipeline and graphics
+programming in rust. Also, this project I spent time playing with fractals like
+Mandelbrot and Buddahbrots.
+
+* Created a bunch of art, learning about how to generate and save it in various formats.
+* Gained a deeper understanding of complex numbers and various ways to think about them.
+* Was able to transfer this knowledge to other game development projects I have
+  in progress, making them more technically solid as well as convenient features
+  like screenshotting and debug output.
+
 ##############
 Message Broker
 ##############
 
-`Message Broker`_ is an ongoing project where I'm attempting to write an enterprise
-worthy message broker akin to RabbitMQ, Kafka, or Redis' Pub/Sub layer. I plan on
-open sourcing once I get it to a usable state, but chunks of the code have been posted
-to my blog.
+`Message Broker`_ was a project where I attempted to write an enterprise worthy
+message broker akin to RabbitMQ, Kafka, or Redis' Pub/Sub layer. I planned on
+open sourcing once I got it to a usable state, but work and other side projects
+took precedence.
 
 * Building on top of Tokio which is becoming a community standard for building services,
   protocols, and as a layer to manage async machinery.
@@ -33,9 +48,9 @@ You can see it in action `this blog post`_.
 i-can-manage-it 
 ###############
 
-`i-can-manage-it`_ is a game and game engine I started writting to get used to
+`i-can-manage-it`_ is a game and game engine I started writing to get used to
 the world of game development. I haven't open sourced it yet, but I did do some
-writing about it as I learned and encounted problems.
+writing about it as I learned and encountered problems.
 
 * First Rust project where performance really mattered, so I got to spend some
   time optimizing.
@@ -128,7 +143,7 @@ the real world, not just via a keyboard or mouse or something.
 
 * Built a monitoring system for my house, temp, light, humidity and cat door.
 * Built a media keyboard (play/pause/back/forward/volume) where I had to patch
-  the firmware that comes with the chip to better adhear to the USB HID spec.
+  the firmware that comes with the chip to better adhere to the USB HID spec.
 * In the process of building a bike computer with GPS, heart rate, cadence and
   a light system.
 * In the process of building a monitoring system for my smoker.
@@ -158,3 +173,4 @@ well!
 .. _`md-to-wp`: https://github.com/wraithan/md-to-wp
 .. _`this blog post`: https://wraithan.net/2017/06/15/message-broker-channel-naming/
 .. _`Message Broker`: https://wraithan.net/tag/message-broker/
+.. _`shader-playground`: https://gitlab.com/wraithan/shader-playground
