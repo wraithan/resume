@@ -20,7 +20,7 @@ telemetry data used for more than just alerting or performance analysis, it was
 fed into intelligent DNS server that used it to make routing decisions.
 
 * Redesigned and built Dynamic Content benchmarks to include a cryptographic
-  signature, giving us the first verified measurement type, enusing no caching
+  signature, giving us the first verified measurement type, ensuring no caching
   happened that would invalidate the measurement.
 * Built out the canary deployment system for the RUM client, allowing us to roll
   our releases or experiments out in 3-5% increments. This enabled us to try out
